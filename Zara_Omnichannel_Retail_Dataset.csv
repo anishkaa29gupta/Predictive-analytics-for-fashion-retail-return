@@ -1,0 +1,1001 @@
+Order_ID,Customer_ID,Order_Date,Product_ID,Product_Name,Category,Quantity,Unit_Price_INR,Sales_INR,Channel,Region,Customer_Segment,Payment_Method,Discount_Percent,Return_Flag
+O00043,C0229,2025-01-01,P010,Sunglasses,Accessories,1,1599,1439.1,Store,East,Regular Customer,Credit Card,10,No
+O00073,C0259,2025-01-01,P005,Blazer,Outerwear,3,4999,12747.45,Website,North,Regular Customer,UPI,15,No
+O00316,C0041,2025-01-01,P007,Sneakers,Footwear,1,3499,3149.1,Website,East,Premium Customer,Wallet,10,No
+O00935,C0043,2025-01-01,P010,Sunglasses,Accessories,1,1599,1599.0,Store,South,Premium Customer,Cash,0,No
+O00660,C0023,2025-01-02,P007,Sneakers,Footwear,1,3499,2974.15,App,East,Premium Customer,Debit Card,15,Yes
+O00222,C0208,2025-01-03,P010,Sunglasses,Accessories,2,1599,3198.0,App,North,Regular Customer,Cash,0,No
+O00744,C0045,2025-01-03,P010,Sunglasses,Accessories,2,1599,3198.0,App,South,Premium Customer,Credit Card,0,No
+O00339,C0091,2025-01-05,P005,Blazer,Outerwear,1,4999,4249.15,Website,South,Loyal Customer,Debit Card,15,No
+O00439,C0110,2025-01-06,P010,Sunglasses,Accessories,3,1599,4077.45,Website,South,Loyal Customer,UPI,15,No
+O00139,C0026,2025-01-07,P010,Sunglasses,Accessories,1,1599,1439.1,Website,North,Premium Customer,Wallet,10,No
+O00178,C0223,2025-01-07,P009,Handbag,Accessories,3,2499,6747.3,Store,West,Regular Customer,Debit Card,10,No
+O00372,C0187,2025-01-07,P009,Handbag,Accessories,1,2499,2374.05,App,South,Regular Customer,Credit Card,5,No
+O00625,C0079,2025-01-08,P002,Slim Fit Jeans,Clothing,3,2299,5517.6,Store,North,Premium Customer,UPI,20,No
+O00150,C0313,2025-01-09,P010,Sunglasses,Accessories,2,1599,3038.1,App,South,New Customer,UPI,5,No
+O00708,C0336,2025-01-09,P005,Blazer,Outerwear,1,4999,4249.15,Website,West,New Customer,Cash,15,No
+O00250,C0258,2025-01-10,P006,Denim Jacket,Outerwear,2,3999,6798.3,Website,West,Regular Customer,Debit Card,15,No
+O00258,C0261,2025-01-10,P003,Oversized Shirt,Clothing,1,1799,1529.15,Store,West,Regular Customer,UPI,15,No
+O00928,C0196,2025-01-10,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,East,Regular Customer,Credit Card,10,No
+O00932,C0369,2025-01-10,P002,Slim Fit Jeans,Clothing,2,2299,4368.1,App,East,New Customer,UPI,5,No
+O00482,C0366,2025-01-11,P004,Summer Dress,Dresses,4,2999,10196.6,Website,North,New Customer,Wallet,15,No
+O00581,C0381,2025-01-11,P006,Denim Jacket,Outerwear,2,3999,7598.1,Website,West,New Customer,Credit Card,5,No
+O00685,C0071,2025-01-11,P003,Oversized Shirt,Clothing,3,1799,5397.0,Website,East,Premium Customer,Wallet,0,No
+O00066,C0233,2025-01-12,P001,Basic T-Shirt,Clothing,4,799,2876.4,Store,East,Regular Customer,UPI,10,No
+O00082,C0277,2025-01-12,P005,Blazer,Outerwear,1,4999,4999.0,Website,South,Regular Customer,UPI,0,No
+O00162,C0335,2025-01-12,P005,Blazer,Outerwear,1,4999,4249.15,App,West,New Customer,UPI,15,Yes
+O00231,C0141,2025-01-12,P005,Blazer,Outerwear,1,4999,4999.0,App,North,Loyal Customer,Cash,0,Yes
+O00544,C0130,2025-01-12,P010,Sunglasses,Accessories,2,1599,2718.3,App,East,Loyal Customer,Cash,15,No
+O00560,C0185,2025-01-12,P004,Summer Dress,Dresses,2,2999,5698.1,Store,East,Regular Customer,Credit Card,5,No
+O00866,C0141,2025-01-12,P001,Basic T-Shirt,Clothing,1,799,799.0,App,East,Loyal Customer,Debit Card,0,Yes
+O00096,C0356,2025-01-13,P011,Knit Sweater,Knitwear,1,2799,2799.0,Website,South,New Customer,Cash,0,No
+O00351,C0016,2025-01-13,P002,Slim Fit Jeans,Clothing,2,2299,4368.1,App,East,Premium Customer,Credit Card,5,No
+O00485,C0192,2025-01-13,P008,Leather Loafers,Footwear,1,4299,4084.05,App,West,Regular Customer,Wallet,5,No
+O00699,C0172,2025-01-13,P005,Blazer,Outerwear,4,4999,16996.6,App,West,Loyal Customer,UPI,15,No
+O00179,C0084,2025-01-14,P004,Summer Dress,Dresses,1,2999,2699.1,Website,South,Loyal Customer,Credit Card,10,No
+O00964,C0281,2025-01-14,P011,Knit Sweater,Knitwear,3,2799,8397.0,Website,South,Regular Customer,UPI,0,No
+O00142,C0364,2025-01-16,P007,Sneakers,Footwear,1,3499,3149.1,Website,North,New Customer,UPI,10,No
+O00658,C0114,2025-01-16,P001,Basic T-Shirt,Clothing,1,799,799.0,Store,North,Loyal Customer,Wallet,0,No
+O00803,C0083,2025-01-16,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,App,East,Loyal Customer,UPI,0,No
+O00832,C0344,2025-01-16,P005,Blazer,Outerwear,1,4999,4499.1,App,West,New Customer,Debit Card,10,No
+O00877,C0136,2025-01-16,P007,Sneakers,Footwear,2,3499,5948.3,Store,North,Loyal Customer,Cash,15,No
+O00893,C0128,2025-01-16,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,App,North,Loyal Customer,Credit Card,5,No
+O00117,C0379,2025-01-18,P008,Leather Loafers,Footwear,1,4299,3869.1,Store,West,New Customer,Debit Card,10,No
+O00556,C0348,2025-01-19,P001,Basic T-Shirt,Clothing,2,799,1518.1,Store,North,New Customer,Cash,5,No
+O00282,C0294,2025-01-20,P012,Cargo Trousers,Clothing,1,2499,2124.15,Website,East,Regular Customer,Wallet,15,No
+O00335,C0387,2025-01-21,P010,Sunglasses,Accessories,1,1599,1599.0,Store,North,New Customer,Cash,0,No
+O00362,C0013,2025-01-21,P005,Blazer,Outerwear,1,4999,4499.1,Store,West,Premium Customer,UPI,10,Yes
+O00280,C0177,2025-01-22,P001,Basic T-Shirt,Clothing,1,799,719.1,Website,South,Loyal Customer,Credit Card,10,No
+O00559,C0296,2025-01-22,P001,Basic T-Shirt,Clothing,2,799,1518.1,Website,North,Regular Customer,Wallet,5,No
+O00644,C0386,2025-01-22,P001,Basic T-Shirt,Clothing,2,799,1518.1,Website,North,New Customer,Wallet,5,No
+O00655,C0384,2025-01-22,P007,Sneakers,Footwear,1,3499,3324.05,App,East,New Customer,Wallet,5,No
+O00918,C0253,2025-01-22,P010,Sunglasses,Accessories,2,1599,2878.2,Website,North,Regular Customer,UPI,10,No
+O00101,C0042,2025-01-23,P009,Handbag,Accessories,1,2499,2374.05,Store,West,Premium Customer,UPI,5,No
+O00256,C0088,2025-01-23,P012,Cargo Trousers,Clothing,2,2499,4498.2,Store,East,Loyal Customer,Debit Card,10,No
+O00437,C0109,2025-01-23,P004,Summer Dress,Dresses,1,2999,2849.05,Website,West,Loyal Customer,Credit Card,5,No
+O00261,C0223,2025-01-24,P007,Sneakers,Footwear,4,3499,13296.2,Website,East,Regular Customer,Cash,5,No
+O00397,C0378,2025-01-24,P003,Oversized Shirt,Clothing,1,1799,1529.15,Website,East,New Customer,Cash,15,No
+O00654,C0179,2025-01-24,P006,Denim Jacket,Outerwear,1,3999,3199.2,Website,West,Loyal Customer,UPI,20,Yes
+O00230,C0253,2025-01-25,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,East,Regular Customer,Wallet,10,No
+O00291,C0269,2025-01-25,P002,Slim Fit Jeans,Clothing,4,2299,8276.4,App,South,Regular Customer,Wallet,10,No
+O00401,C0038,2025-01-25,P003,Oversized Shirt,Clothing,1,1799,1529.15,Store,East,Premium Customer,Wallet,15,No
+O00608,C0319,2025-01-26,P012,Cargo Trousers,Clothing,2,2499,4498.2,App,South,New Customer,Wallet,10,No
+O00679,C0400,2025-01-26,P004,Summer Dress,Dresses,1,2999,2999.0,App,North,New Customer,UPI,0,No
+O00766,C0326,2025-01-26,P001,Basic T-Shirt,Clothing,1,799,719.1,Store,North,New Customer,Cash,10,No
+O00662,C0058,2025-01-27,P006,Denim Jacket,Outerwear,1,3999,3999.0,Store,South,Premium Customer,Cash,0,No
+O00366,C0109,2025-01-28,P007,Sneakers,Footwear,1,3499,2974.15,Website,South,Loyal Customer,Debit Card,15,No
+O00927,C0349,2025-01-28,P010,Sunglasses,Accessories,2,1599,3038.1,Store,West,New Customer,Wallet,5,No
+O00622,C0134,2025-01-30,P005,Blazer,Outerwear,2,4999,9998.0,Website,West,Loyal Customer,Credit Card,0,No
+O00698,C0226,2025-01-30,P004,Summer Dress,Dresses,1,2999,2699.1,Website,South,Regular Customer,Wallet,10,No
+O00329,C0369,2025-01-31,P006,Denim Jacket,Outerwear,1,3999,3799.05,Store,West,New Customer,UPI,5,Yes
+O00486,C0036,2025-01-31,P005,Blazer,Outerwear,1,4999,4749.05,App,West,Premium Customer,Credit Card,5,No
+O00835,C0198,2025-01-31,P002,Slim Fit Jeans,Clothing,3,2299,6897.0,Website,North,Regular Customer,Credit Card,0,No
+O00289,C0129,2025-02-01,P007,Sneakers,Footwear,2,3499,5948.3,App,North,Loyal Customer,Debit Card,15,No
+O00667,C0209,2025-02-01,P001,Basic T-Shirt,Clothing,2,799,1438.2,App,East,Regular Customer,UPI,10,Yes
+O00128,C0029,2025-02-03,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,App,East,Premium Customer,UPI,10,No
+O00883,C0179,2025-02-03,P007,Sneakers,Footwear,3,3499,9447.3,App,South,Loyal Customer,Cash,10,No
+O00012,C0268,2025-02-04,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,App,East,Regular Customer,Debit Card,5,No
+O00306,C0125,2025-02-04,P006,Denim Jacket,Outerwear,2,3999,7198.2,Store,East,Loyal Customer,Cash,10,No
+O00777,C0046,2025-02-04,P007,Sneakers,Footwear,2,3499,6998.0,App,South,Premium Customer,Credit Card,0,No
+O00923,C0089,2025-02-04,P002,Slim Fit Jeans,Clothing,3,2299,6897.0,Store,West,Loyal Customer,Cash,0,No
+O00123,C0311,2025-02-05,P002,Slim Fit Jeans,Clothing,2,2299,3908.3,App,East,New Customer,Debit Card,15,No
+O00387,C0081,2025-02-05,P011,Knit Sweater,Knitwear,2,2799,5038.2,Store,South,Loyal Customer,Credit Card,10,No
+O00438,C0153,2025-02-05,P005,Blazer,Outerwear,2,4999,8498.3,Store,South,Loyal Customer,Wallet,15,No
+O00347,C0282,2025-02-06,P001,Basic T-Shirt,Clothing,1,799,719.1,App,South,Regular Customer,UPI,10,No
+O00433,C0258,2025-02-06,P010,Sunglasses,Accessories,2,1599,2878.2,App,West,Regular Customer,Debit Card,10,No
+O00224,C0286,2025-02-07,P005,Blazer,Outerwear,1,4999,4249.15,App,South,Regular Customer,Cash,15,No
+O00507,C0063,2025-02-07,P008,Leather Loafers,Footwear,2,4299,7738.2,Store,West,Premium Customer,Cash,10,No
+O00996,C0048,2025-02-07,P010,Sunglasses,Accessories,1,1599,1359.15,Store,South,Premium Customer,UPI,15,Yes
+O00057,C0373,2025-02-08,P005,Blazer,Outerwear,2,4999,9498.1,App,North,New Customer,UPI,5,Yes
+O00102,C0063,2025-02-08,P001,Basic T-Shirt,Clothing,1,799,719.1,App,North,Premium Customer,Debit Card,10,No
+O00321,C0105,2025-02-08,P010,Sunglasses,Accessories,2,1599,2878.2,Website,East,Loyal Customer,UPI,10,No
+O00386,C0247,2025-02-08,P008,Leather Loafers,Footwear,2,4299,8168.1,App,West,Regular Customer,Debit Card,5,No
+O00694,C0242,2025-02-08,P006,Denim Jacket,Outerwear,2,3999,7598.1,Website,South,Regular Customer,UPI,5,No
+O00155,C0090,2025-02-09,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,App,West,Loyal Customer,Credit Card,15,Yes
+O00185,C0262,2025-02-09,P007,Sneakers,Footwear,1,3499,3324.05,App,East,Regular Customer,Credit Card,5,No
+O00517,C0112,2025-02-09,P012,Cargo Trousers,Clothing,2,2499,4998.0,Store,West,Loyal Customer,Debit Card,0,No
+O00009,C0296,2025-02-10,P005,Blazer,Outerwear,1,4999,4499.1,Website,South,Regular Customer,Cash,10,Yes
+O00363,C0340,2025-02-10,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,North,New Customer,Cash,5,Yes
+O00420,C0074,2025-02-10,P006,Denim Jacket,Outerwear,2,3999,7998.0,Store,East,Premium Customer,Cash,0,No
+O00959,C0376,2025-02-10,P003,Oversized Shirt,Clothing,1,1799,1709.05,Store,East,New Customer,Credit Card,5,No
+O00597,C0220,2025-02-11,P003,Oversized Shirt,Clothing,1,1799,1529.15,Website,North,Regular Customer,Wallet,15,No
+O00722,C0300,2025-02-11,P007,Sneakers,Footwear,1,3499,2974.15,App,North,Regular Customer,Credit Card,15,No
+O00079,C0273,2025-02-12,P012,Cargo Trousers,Clothing,4,2499,8996.4,App,North,Regular Customer,Debit Card,10,No
+O00232,C0288,2025-02-12,P012,Cargo Trousers,Clothing,3,2499,7122.15,Website,South,Regular Customer,Wallet,5,No
+O00411,C0283,2025-02-12,P006,Denim Jacket,Outerwear,2,3999,7198.2,App,West,Regular Customer,Debit Card,10,No
+O00989,C0090,2025-02-12,P006,Denim Jacket,Outerwear,3,3999,11997.0,App,North,Loyal Customer,Credit Card,0,Yes
+O00007,C0388,2025-02-13,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,Website,South,New Customer,Credit Card,0,Yes
+O00016,C0086,2025-02-13,P012,Cargo Trousers,Clothing,1,2499,2499.0,Store,North,Loyal Customer,Cash,0,No
+O00064,C0190,2025-02-13,P009,Handbag,Accessories,1,2499,2249.1,Website,North,Regular Customer,Credit Card,10,No
+O00157,C0216,2025-02-14,P003,Oversized Shirt,Clothing,3,1799,4587.45,Store,West,Regular Customer,Debit Card,15,No
+O00621,C0129,2025-02-14,P010,Sunglasses,Accessories,1,1599,1359.15,App,South,Loyal Customer,UPI,15,No
+O00754,C0070,2025-02-14,P009,Handbag,Accessories,1,2499,2374.05,App,West,Premium Customer,UPI,5,No
+O00033,C0304,2025-02-15,P003,Oversized Shirt,Clothing,2,1799,3598.0,Website,West,New Customer,Wallet,0,Yes
+O00170,C0050,2025-02-15,P004,Summer Dress,Dresses,1,2999,2999.0,App,North,Premium Customer,Debit Card,0,No
+O00955,C0075,2025-02-15,P009,Handbag,Accessories,1,2499,2499.0,Website,West,Premium Customer,UPI,0,No
+O00065,C0173,2025-02-16,P005,Blazer,Outerwear,4,4999,19996.0,App,North,Loyal Customer,Cash,0,No
+O00415,C0069,2025-02-16,P006,Denim Jacket,Outerwear,1,3999,3799.05,App,North,Premium Customer,Wallet,5,No
+O00588,C0244,2025-02-16,P011,Knit Sweater,Knitwear,3,2799,7977.15,Store,West,Regular Customer,Debit Card,5,No
+O00736,C0214,2025-02-16,P011,Knit Sweater,Knitwear,2,2799,5598.0,Website,West,Regular Customer,Credit Card,0,No
+O00383,C0331,2025-02-17,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,Store,West,New Customer,Cash,0,No
+O00638,C0373,2025-02-17,P001,Basic T-Shirt,Clothing,2,799,1518.1,App,West,New Customer,Wallet,5,No
+O00760,C0007,2025-02-17,P010,Sunglasses,Accessories,1,1599,1359.15,Store,East,Premium Customer,Credit Card,15,No
+O00843,C0181,2025-02-17,P007,Sneakers,Footwear,2,3499,6648.1,App,West,Regular Customer,Debit Card,5,No
+O00933,C0008,2025-02-17,P005,Blazer,Outerwear,2,4999,9998.0,Website,South,Premium Customer,Cash,0,No
+O00947,C0276,2025-02-17,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,South,Regular Customer,Cash,5,No
+O00997,C0025,2025-02-17,P010,Sunglasses,Accessories,2,1599,3038.1,App,West,Premium Customer,UPI,5,No
+O00452,C0136,2025-02-18,P006,Denim Jacket,Outerwear,1,3999,3199.2,Website,East,Loyal Customer,UPI,20,No
+O00765,C0265,2025-02-18,P002,Slim Fit Jeans,Clothing,3,2299,6207.3,Website,South,Regular Customer,Wallet,10,No
+O00889,C0171,2025-02-18,P007,Sneakers,Footwear,2,3499,6648.1,App,North,Loyal Customer,UPI,5,No
+O00268,C0047,2025-02-19,P012,Cargo Trousers,Clothing,3,2499,7122.15,Website,North,Premium Customer,Credit Card,5,No
+O01000,C0366,2025-02-19,P004,Summer Dress,Dresses,1,2999,2549.15,Website,North,New Customer,UPI,15,No
+O00031,C0033,2025-02-20,P012,Cargo Trousers,Clothing,1,2499,2374.05,Website,South,Premium Customer,Wallet,5,Yes
+O00081,C0388,2025-02-20,P008,Leather Loafers,Footwear,1,4299,3869.1,Website,West,New Customer,Credit Card,10,No
+O00684,C0044,2025-02-20,P006,Denim Jacket,Outerwear,1,3999,3799.05,Website,West,Premium Customer,Wallet,5,No
+O00693,C0294,2025-02-20,P006,Denim Jacket,Outerwear,1,3999,3399.15,Store,South,Regular Customer,UPI,15,No
+O00906,C0249,2025-02-20,P005,Blazer,Outerwear,1,4999,4499.1,App,South,Regular Customer,Credit Card,10,No
+O00483,C0098,2025-02-21,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Website,South,Loyal Customer,Credit Card,10,No
+O00353,C0221,2025-02-22,P007,Sneakers,Footwear,1,3499,3324.05,Website,North,Regular Customer,Debit Card,5,No
+O00354,C0275,2025-02-23,P009,Handbag,Accessories,3,2499,6747.3,Store,East,Regular Customer,Credit Card,10,No
+O00571,C0089,2025-02-23,P008,Leather Loafers,Footwear,1,4299,4299.0,App,West,Loyal Customer,Debit Card,0,No
+O00582,C0348,2025-02-23,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,North,New Customer,Credit Card,10,Yes
+O00132,C0267,2025-02-24,P008,Leather Loafers,Footwear,2,4299,8168.1,Website,West,Regular Customer,Credit Card,5,No
+O00263,C0057,2025-02-24,P004,Summer Dress,Dresses,1,2999,2699.1,Website,East,Premium Customer,Credit Card,10,No
+O00388,C0101,2025-02-24,P012,Cargo Trousers,Clothing,2,2499,4998.0,Store,South,Loyal Customer,Credit Card,0,No
+O00663,C0282,2025-02-24,P001,Basic T-Shirt,Clothing,3,799,2397.0,App,North,Regular Customer,Credit Card,0,No
+O00676,C0298,2025-02-24,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,North,Regular Customer,UPI,5,No
+O00729,C0387,2025-02-24,P010,Sunglasses,Accessories,1,1599,1439.1,Website,North,New Customer,Wallet,10,No
+O00917,C0187,2025-02-25,P010,Sunglasses,Accessories,1,1599,1519.05,App,East,Regular Customer,Credit Card,5,No
+O00958,C0010,2025-02-26,P001,Basic T-Shirt,Clothing,1,799,799.0,Store,North,Premium Customer,Debit Card,0,No
+O00975,C0168,2025-02-26,P012,Cargo Trousers,Clothing,1,2499,2249.1,Store,East,Loyal Customer,UPI,10,No
+O00164,C0164,2025-02-27,P011,Knit Sweater,Knitwear,1,2799,2799.0,App,North,Loyal Customer,Debit Card,0,No
+O00869,C0358,2025-02-27,P011,Knit Sweater,Knitwear,1,2799,2659.05,Store,West,New Customer,UPI,5,Yes
+O00457,C0357,2025-02-28,P007,Sneakers,Footwear,1,3499,3149.1,Store,West,New Customer,Wallet,10,No
+O00716,C0344,2025-02-28,P003,Oversized Shirt,Clothing,1,1799,1619.1,Website,South,New Customer,Cash,10,No
+O00161,C0344,2025-03-01,P003,Oversized Shirt,Clothing,2,1799,3238.2,App,East,New Customer,Cash,10,Yes
+O00454,C0323,2025-03-01,P003,Oversized Shirt,Clothing,1,1799,1799.0,App,South,New Customer,Debit Card,0,No
+O00311,C0162,2025-03-02,P011,Knit Sweater,Knitwear,1,2799,2659.05,Store,North,Loyal Customer,Credit Card,5,No
+O00417,C0310,2025-03-03,P008,Leather Loafers,Footwear,1,4299,4084.05,Store,West,New Customer,Credit Card,5,Yes
+O00926,C0009,2025-03-03,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,North,Premium Customer,UPI,0,No
+O00236,C0040,2025-03-04,P001,Basic T-Shirt,Clothing,1,799,719.1,App,West,Premium Customer,Credit Card,10,No
+O00527,C0388,2025-03-04,P001,Basic T-Shirt,Clothing,1,799,759.05,Store,South,New Customer,Debit Card,5,No
+O00713,C0215,2025-03-04,P012,Cargo Trousers,Clothing,1,2499,2124.15,App,North,Regular Customer,Debit Card,15,No
+O00338,C0250,2025-03-05,P003,Oversized Shirt,Clothing,1,1799,1529.15,App,North,Regular Customer,Debit Card,15,No
+O00475,C0133,2025-03-05,P007,Sneakers,Footwear,4,3499,13996.0,Store,East,Loyal Customer,UPI,0,No
+O00541,C0048,2025-03-05,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,App,East,Premium Customer,UPI,15,Yes
+O00761,C0351,2025-03-05,P003,Oversized Shirt,Clothing,3,1799,5397.0,Store,North,New Customer,Debit Card,0,No
+O00995,C0347,2025-03-05,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,Website,West,New Customer,Credit Card,5,Yes
+O00145,C0272,2025-03-06,P008,Leather Loafers,Footwear,2,4299,8168.1,App,North,Regular Customer,Wallet,5,No
+O00238,C0386,2025-03-06,P011,Knit Sweater,Knitwear,1,2799,2379.15,Website,South,New Customer,Wallet,15,No
+O00912,C0002,2025-03-06,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,East,Premium Customer,Debit Card,5,No
+O00930,C0343,2025-03-06,P009,Handbag,Accessories,3,2499,6747.3,Store,South,New Customer,Cash,10,No
+O00561,C0073,2025-03-07,P012,Cargo Trousers,Clothing,1,2499,2374.05,App,South,Premium Customer,Cash,5,No
+O00749,C0262,2025-03-07,P001,Basic T-Shirt,Clothing,1,799,719.1,App,North,Regular Customer,Cash,10,No
+O00753,C0117,2025-03-07,P008,Leather Loafers,Footwear,1,4299,4299.0,Website,West,Loyal Customer,Wallet,0,No
+O00088,C0231,2025-03-08,P006,Denim Jacket,Outerwear,1,3999,3799.05,Website,West,Regular Customer,Credit Card,5,No
+O00599,C0266,2025-03-08,P012,Cargo Trousers,Clothing,1,2499,2374.05,App,East,Regular Customer,Debit Card,5,No
+O00774,C0322,2025-03-08,P009,Handbag,Accessories,3,2499,6747.3,Store,East,New Customer,Wallet,10,No
+O00957,C0317,2025-03-08,P001,Basic T-Shirt,Clothing,1,799,679.15,App,South,New Customer,Credit Card,15,No
+O00398,C0024,2025-03-10,P010,Sunglasses,Accessories,3,1599,4317.3,Store,South,Premium Customer,Wallet,10,No
+O00428,C0168,2025-03-10,P007,Sneakers,Footwear,1,3499,2974.15,App,East,Loyal Customer,UPI,15,No
+O00764,C0043,2025-03-10,P006,Denim Jacket,Outerwear,1,3999,3399.15,Website,East,Premium Customer,Credit Card,15,No
+O00793,C0196,2025-03-10,P007,Sneakers,Footwear,1,3499,3499.0,Store,West,Regular Customer,Wallet,0,No
+O00823,C0094,2025-03-10,P005,Blazer,Outerwear,1,4999,4249.15,Website,East,Loyal Customer,Wallet,15,No
+O00971,C0028,2025-03-11,P001,Basic T-Shirt,Clothing,1,799,759.05,App,West,Premium Customer,UPI,5,No
+O00546,C0292,2025-03-12,P012,Cargo Trousers,Clothing,3,2499,7497.0,App,East,Regular Customer,Credit Card,0,No
+O00710,C0103,2025-03-12,P010,Sunglasses,Accessories,1,1599,1359.15,Website,South,Loyal Customer,UPI,15,No
+O00134,C0244,2025-03-14,P011,Knit Sweater,Knitwear,2,2799,5318.1,Store,East,Regular Customer,Wallet,5,No
+O00979,C0225,2025-03-14,P012,Cargo Trousers,Clothing,2,2499,4498.2,Store,South,Regular Customer,Cash,10,No
+O00209,C0146,2025-03-15,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,App,West,Loyal Customer,Cash,10,No
+O00539,C0175,2025-03-15,P005,Blazer,Outerwear,3,4999,12747.45,Website,West,Loyal Customer,UPI,15,No
+O00695,C0289,2025-03-15,P011,Knit Sweater,Knitwear,1,2799,2379.15,Store,West,Regular Customer,Debit Card,15,No
+O00478,C0184,2025-03-16,P010,Sunglasses,Accessories,2,1599,2718.3,Website,North,Regular Customer,Credit Card,15,No
+O00915,C0311,2025-03-16,P008,Leather Loafers,Footwear,2,4299,7738.2,Website,South,New Customer,UPI,10,No
+O00098,C0095,2025-03-17,P001,Basic T-Shirt,Clothing,3,799,2397.0,Store,West,Loyal Customer,UPI,0,No
+O00308,C0393,2025-03-17,P004,Summer Dress,Dresses,3,2999,8097.3,Store,South,New Customer,Cash,10,No
+O00495,C0247,2025-03-17,P008,Leather Loafers,Footwear,1,4299,3654.15,Website,South,Regular Customer,Debit Card,15,No
+O00948,C0240,2025-03-17,P011,Knit Sweater,Knitwear,3,2799,7557.3,App,West,Regular Customer,Cash,10,No
+O00175,C0161,2025-03-18,P010,Sunglasses,Accessories,1,1599,1439.1,Store,South,Loyal Customer,Wallet,10,No
+O00492,C0196,2025-03-18,P011,Knit Sweater,Knitwear,3,2799,7137.45,Store,South,Regular Customer,Debit Card,15,No
+O00902,C0086,2025-03-18,P012,Cargo Trousers,Clothing,1,2499,2249.1,Website,South,Loyal Customer,Credit Card,10,No
+O00922,C0066,2025-03-18,P004,Summer Dress,Dresses,3,2999,8547.15,App,East,Premium Customer,Cash,5,No
+O00949,C0329,2025-03-18,P010,Sunglasses,Accessories,1,1599,1599.0,Website,North,New Customer,UPI,0,No
+O00248,C0136,2025-03-19,P008,Leather Loafers,Footwear,2,4299,8598.0,Website,South,Loyal Customer,Cash,0,No
+O00634,C0337,2025-03-19,P008,Leather Loafers,Footwear,1,4299,4084.05,App,East,New Customer,Wallet,5,No
+O00855,C0362,2025-03-19,P003,Oversized Shirt,Clothing,1,1799,1799.0,Store,West,New Customer,UPI,0,No
+O00243,C0314,2025-03-20,P012,Cargo Trousers,Clothing,2,2499,4498.2,Store,West,New Customer,UPI,10,No
+O00901,C0149,2025-03-20,P008,Leather Loafers,Footwear,3,4299,11607.3,App,West,Loyal Customer,Credit Card,10,No
+O00010,C0157,2025-03-22,P001,Basic T-Shirt,Clothing,2,799,1598.0,App,North,Loyal Customer,Debit Card,0,No
+O00020,C0318,2025-03-22,P001,Basic T-Shirt,Clothing,1,799,719.1,App,West,New Customer,UPI,10,No
+O00137,C0017,2025-03-22,P010,Sunglasses,Accessories,1,1599,1439.1,Store,North,Premium Customer,Wallet,10,No
+O00322,C0028,2025-03-22,P003,Oversized Shirt,Clothing,2,1799,3238.2,Store,East,Premium Customer,Credit Card,10,No
+O00240,C0395,2025-03-23,P005,Blazer,Outerwear,1,4999,4999.0,Store,East,New Customer,Cash,0,No
+O00490,C0319,2025-03-23,P007,Sneakers,Footwear,2,3499,5948.3,Store,North,New Customer,Wallet,15,No
+O00648,C0251,2025-03-23,P001,Basic T-Shirt,Clothing,1,799,719.1,Store,North,Regular Customer,Wallet,10,No
+O00089,C0233,2025-03-24,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,App,East,Regular Customer,Cash,10,No
+O00782,C0001,2025-03-24,P012,Cargo Trousers,Clothing,2,2499,4748.1,App,West,Premium Customer,Credit Card,5,No
+O00978,C0377,2025-03-24,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,West,New Customer,Cash,5,No
+O00187,C0325,2025-03-25,P006,Denim Jacket,Outerwear,1,3999,3799.05,Website,South,New Customer,UPI,5,No
+O00274,C0400,2025-03-25,P006,Denim Jacket,Outerwear,2,3999,7998.0,Website,North,New Customer,Debit Card,0,No
+O00395,C0188,2025-03-25,P007,Sneakers,Footwear,2,3499,6648.1,Store,East,Regular Customer,Credit Card,5,No
+O00770,C0058,2025-03-25,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,Website,West,Premium Customer,Cash,10,No
+O00286,C0197,2025-03-26,P003,Oversized Shirt,Clothing,1,1799,1709.05,App,West,Regular Customer,Cash,5,No
+O00279,C0086,2025-03-27,P007,Sneakers,Footwear,1,3499,2974.15,Website,West,Loyal Customer,UPI,15,No
+O00449,C0282,2025-03-27,P012,Cargo Trousers,Clothing,2,2499,4498.2,Store,South,Regular Customer,UPI,10,No
+O00875,C0047,2025-03-27,P007,Sneakers,Footwear,2,3499,6298.2,Store,West,Premium Customer,Credit Card,10,No
+O00119,C0132,2025-03-28,P001,Basic T-Shirt,Clothing,3,799,2277.15,Website,East,Loyal Customer,Credit Card,5,No
+O00332,C0399,2025-03-28,P005,Blazer,Outerwear,2,4999,9498.1,App,North,New Customer,Debit Card,5,No
+O00566,C0149,2025-03-28,P008,Leather Loafers,Footwear,1,4299,3869.1,App,East,Loyal Customer,Wallet,10,No
+O00649,C0283,2025-03-28,P011,Knit Sweater,Knitwear,2,2799,5598.0,Store,North,Regular Customer,Credit Card,0,No
+O00730,C0172,2025-03-28,P002,Slim Fit Jeans,Clothing,2,2299,4368.1,Website,East,Loyal Customer,UPI,5,No
+O00001,C0103,2025-03-29,P004,Summer Dress,Dresses,2,2999,5398.2,Store,East,Loyal Customer,Debit Card,10,No
+O00405,C0153,2025-03-29,P011,Knit Sweater,Knitwear,2,2799,5038.2,Store,South,Loyal Customer,UPI,10,No
+O00554,C0130,2025-03-29,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Website,North,Loyal Customer,Debit Card,10,No
+O00614,C0158,2025-03-29,P011,Knit Sweater,Knitwear,1,2799,2519.1,Website,East,Loyal Customer,Wallet,10,No
+O00703,C0156,2025-03-29,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,Website,South,Loyal Customer,Credit Card,0,No
+O00911,C0138,2025-03-29,P006,Denim Jacket,Outerwear,1,3999,3999.0,Store,South,Loyal Customer,UPI,0,No
+O00580,C0358,2025-03-30,P012,Cargo Trousers,Clothing,1,2499,2249.1,Website,North,New Customer,Wallet,10,No
+O00755,C0395,2025-03-30,P006,Denim Jacket,Outerwear,2,3999,7598.1,Store,East,New Customer,Cash,5,No
+O00112,C0309,2025-03-31,P009,Handbag,Accessories,1,2499,2374.05,App,North,New Customer,UPI,5,No
+O00259,C0384,2025-03-31,P007,Sneakers,Footwear,1,3499,2974.15,Website,South,New Customer,Credit Card,15,No
+O00523,C0335,2025-03-31,P001,Basic T-Shirt,Clothing,1,799,759.05,App,East,New Customer,UPI,5,No
+O00762,C0029,2025-04-01,P004,Summer Dress,Dresses,2,2999,5398.2,Store,South,Premium Customer,Credit Card,10,No
+O00109,C0104,2025-04-02,P012,Cargo Trousers,Clothing,2,2499,4498.2,Website,West,Loyal Customer,Credit Card,10,No
+O00283,C0154,2025-04-02,P004,Summer Dress,Dresses,1,2999,2999.0,Store,South,Loyal Customer,Cash,0,No
+O00604,C0025,2025-04-02,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,Store,East,Premium Customer,UPI,0,No
+O00910,C0271,2025-04-02,P003,Oversized Shirt,Clothing,3,1799,5127.15,Website,South,Regular Customer,Cash,5,No
+O00426,C0370,2025-04-03,P011,Knit Sweater,Knitwear,3,2799,8397.0,Website,East,New Customer,Cash,0,No
+O00583,C0029,2025-04-03,P003,Oversized Shirt,Clothing,1,1799,1619.1,App,South,Premium Customer,Cash,10,Yes
+O00097,C0168,2025-04-04,P002,Slim Fit Jeans,Clothing,2,2299,3908.3,App,East,Loyal Customer,Debit Card,15,No
+O00429,C0299,2025-04-04,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,App,North,Regular Customer,Credit Card,5,No
+O00890,C0164,2025-04-04,P005,Blazer,Outerwear,1,4999,4999.0,App,West,Loyal Customer,Wallet,0,No
+O00255,C0022,2025-04-05,P012,Cargo Trousers,Clothing,1,2499,2249.1,App,South,Premium Customer,Credit Card,10,No
+O00594,C0274,2025-04-05,P003,Oversized Shirt,Clothing,1,1799,1709.05,App,South,Regular Customer,Debit Card,5,No
+O00639,C0224,2025-04-05,P003,Oversized Shirt,Clothing,1,1799,1619.1,Store,South,Regular Customer,Wallet,10,No
+O00014,C0015,2025-04-06,P010,Sunglasses,Accessories,1,1599,1359.15,App,North,Premium Customer,Wallet,15,No
+O00053,C0249,2025-04-06,P004,Summer Dress,Dresses,2,2999,5398.2,App,North,Regular Customer,Cash,10,No
+O00143,C0108,2025-04-06,P002,Slim Fit Jeans,Clothing,4,2299,9196.0,App,South,Loyal Customer,Credit Card,0,No
+O00357,C0075,2025-04-06,P009,Handbag,Accessories,1,2499,2499.0,Store,East,Premium Customer,Credit Card,0,No
+O00071,C0224,2025-04-08,P001,Basic T-Shirt,Clothing,1,799,639.2,Website,South,Regular Customer,Wallet,20,No
+O00152,C0003,2025-04-08,P003,Oversized Shirt,Clothing,2,1799,3598.0,App,West,Premium Customer,Wallet,0,No
+O00642,C0222,2025-04-08,P004,Summer Dress,Dresses,1,2999,2849.05,Website,North,Regular Customer,Wallet,5,No
+O00324,C0223,2025-04-09,P009,Handbag,Accessories,1,2499,2374.05,Store,North,Regular Customer,Cash,5,No
+O00874,C0031,2025-04-09,P005,Blazer,Outerwear,1,4999,4999.0,Store,East,Premium Customer,Debit Card,0,No
+O00055,C0286,2025-04-10,P001,Basic T-Shirt,Clothing,2,799,1518.1,Website,West,Regular Customer,UPI,5,No
+O00359,C0157,2025-04-10,P012,Cargo Trousers,Clothing,1,2499,2249.1,App,North,Loyal Customer,Cash,10,No
+O00365,C0397,2025-04-10,P004,Summer Dress,Dresses,1,2999,2549.15,Store,West,New Customer,UPI,15,No
+O00784,C0068,2025-04-10,P004,Summer Dress,Dresses,1,2999,2699.1,App,South,Premium Customer,Wallet,10,No
+O00591,C0383,2025-04-11,P010,Sunglasses,Accessories,1,1599,1439.1,Store,South,New Customer,Debit Card,10,No
+O00616,C0109,2025-04-11,P009,Handbag,Accessories,1,2499,2499.0,Store,South,Loyal Customer,Cash,0,No
+O00669,C0199,2025-04-11,P009,Handbag,Accessories,1,2499,2249.1,Store,South,Regular Customer,UPI,10,No
+O00834,C0066,2025-04-11,P009,Handbag,Accessories,1,2499,2249.1,Store,North,Premium Customer,UPI,10,No
+O00839,C0287,2025-04-11,P001,Basic T-Shirt,Clothing,2,799,1598.0,Store,West,Regular Customer,Debit Card,0,No
+O00173,C0320,2025-04-12,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,Website,East,New Customer,Cash,10,No
+O00203,C0143,2025-04-12,P005,Blazer,Outerwear,1,4999,4749.05,Website,North,Loyal Customer,Cash,5,No
+O00301,C0190,2025-04-12,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,East,Regular Customer,Credit Card,5,No
+O00505,C0171,2025-04-12,P001,Basic T-Shirt,Clothing,2,799,1438.2,App,South,Loyal Customer,Credit Card,10,No
+O00140,C0137,2025-04-13,P003,Oversized Shirt,Clothing,1,1799,1529.15,Store,South,Loyal Customer,Cash,15,No
+O00235,C0329,2025-04-13,P012,Cargo Trousers,Clothing,1,2499,2249.1,Website,East,New Customer,Cash,10,No
+O00504,C0392,2025-04-13,P008,Leather Loafers,Footwear,1,4299,3654.15,Store,West,New Customer,Debit Card,15,No
+O00775,C0006,2025-04-13,P010,Sunglasses,Accessories,1,1599,1439.1,Website,South,Premium Customer,Wallet,10,No
+O00779,C0193,2025-04-13,P010,Sunglasses,Accessories,3,1599,4797.0,Website,East,Regular Customer,Credit Card,0,No
+O00636,C0393,2025-04-14,P001,Basic T-Shirt,Clothing,2,799,1518.1,Website,West,New Customer,Wallet,5,No
+O00707,C0237,2025-04-14,P001,Basic T-Shirt,Clothing,1,799,639.2,Store,West,Regular Customer,Cash,20,No
+O00944,C0331,2025-04-14,P009,Handbag,Accessories,2,2499,4248.3,Store,South,New Customer,Credit Card,15,No
+O00241,C0232,2025-04-15,P003,Oversized Shirt,Clothing,3,1799,5127.15,Website,West,Regular Customer,UPI,5,Yes
+O00646,C0085,2025-04-15,P007,Sneakers,Footwear,1,3499,2974.15,Website,South,Loyal Customer,Debit Card,15,No
+O00665,C0034,2025-04-15,P001,Basic T-Shirt,Clothing,2,799,1358.3,Store,East,Premium Customer,Debit Card,15,No
+O00919,C0290,2025-04-15,P001,Basic T-Shirt,Clothing,1,799,719.1,Store,West,Regular Customer,Cash,10,No
+O00924,C0125,2025-04-15,P010,Sunglasses,Accessories,1,1599,1439.1,Store,North,Loyal Customer,Wallet,10,Yes
+O00972,C0104,2025-04-15,P012,Cargo Trousers,Clothing,4,2499,9996.0,App,West,Loyal Customer,Credit Card,0,No
+O00176,C0116,2025-04-16,P010,Sunglasses,Accessories,4,1599,6076.2,Website,South,Loyal Customer,Credit Card,5,No
+O00547,C0180,2025-04-16,P012,Cargo Trousers,Clothing,1,2499,2374.05,Store,North,Loyal Customer,Debit Card,5,No
+O00788,C0082,2025-04-16,P004,Summer Dress,Dresses,1,2999,2999.0,Website,East,Loyal Customer,Credit Card,0,No
+O00206,C0228,2025-04-17,P011,Knit Sweater,Knitwear,2,2799,5038.2,Store,South,Regular Customer,Wallet,10,No
+O00431,C0321,2025-04-17,P007,Sneakers,Footwear,1,3499,2974.15,Store,South,New Customer,Wallet,15,No
+O00702,C0013,2025-04-18,P003,Oversized Shirt,Clothing,1,1799,1799.0,Website,South,Premium Customer,Credit Card,0,No
+O00741,C0311,2025-04-18,P004,Summer Dress,Dresses,1,2999,2849.05,Store,North,New Customer,Wallet,5,No
+O00333,C0134,2025-04-19,P004,Summer Dress,Dresses,4,2999,11396.2,Store,North,Loyal Customer,Cash,5,Yes
+O00394,C0068,2025-04-19,P005,Blazer,Outerwear,2,4999,8998.2,Store,West,Premium Customer,Debit Card,10,No
+O00623,C0244,2025-04-19,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,App,West,Regular Customer,UPI,10,No
+O00873,C0357,2025-04-19,P009,Handbag,Accessories,3,2499,7122.15,App,West,New Customer,Wallet,5,No
+O00484,C0271,2025-04-20,P005,Blazer,Outerwear,2,4999,7998.4,Website,North,Regular Customer,Debit Card,20,No
+O00108,C0038,2025-04-21,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,East,Premium Customer,Credit Card,10,No
+O00336,C0300,2025-04-21,P011,Knit Sweater,Knitwear,1,2799,2519.1,Website,East,Regular Customer,Wallet,10,Yes
+O00373,C0244,2025-04-21,P009,Handbag,Accessories,2,2499,4498.2,Website,West,Regular Customer,Cash,10,No
+O00404,C0254,2025-04-21,P009,Handbag,Accessories,1,2499,2374.05,App,West,Regular Customer,Cash,5,No
+O00983,C0273,2025-04-21,P004,Summer Dress,Dresses,1,2999,2699.1,Website,North,Regular Customer,Debit Card,10,No
+O00487,C0375,2025-04-22,P011,Knit Sweater,Knitwear,1,2799,2519.1,Website,West,New Customer,Debit Card,10,No
+O00019,C0307,2025-04-23,P010,Sunglasses,Accessories,1,1599,1519.05,Website,East,New Customer,Cash,5,No
+O00413,C0007,2025-04-23,P008,Leather Loafers,Footwear,2,4299,7308.3,Store,South,Premium Customer,Cash,15,No
+O00197,C0358,2025-04-24,P005,Blazer,Outerwear,2,4999,8498.3,Store,East,New Customer,Credit Card,15,Yes
+O00251,C0271,2025-04-24,P001,Basic T-Shirt,Clothing,1,799,759.05,Store,East,Regular Customer,Credit Card,5,No
+O00668,C0015,2025-04-24,P011,Knit Sweater,Knitwear,1,2799,2379.15,Store,West,Premium Customer,Cash,15,No
+O00791,C0349,2025-04-24,P004,Summer Dress,Dresses,1,2999,2549.15,Website,North,New Customer,Debit Card,15,Yes
+O00936,C0245,2025-04-24,P008,Leather Loafers,Footwear,1,4299,4084.05,Store,North,Regular Customer,Wallet,5,Yes
+O00051,C0242,2025-04-25,P003,Oversized Shirt,Clothing,1,1799,1529.15,Website,South,Regular Customer,Credit Card,15,No
+O00126,C0342,2025-04-25,P012,Cargo Trousers,Clothing,2,2499,3998.4,App,South,New Customer,UPI,20,No
+O00299,C0302,2025-04-25,P004,Summer Dress,Dresses,1,2999,2549.15,Store,West,New Customer,Credit Card,15,No
+O00506,C0192,2025-04-25,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,North,Regular Customer,Wallet,5,No
+O00479,C0364,2025-04-26,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,West,New Customer,Cash,5,No
+O00501,C0238,2025-04-26,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,App,North,Regular Customer,Debit Card,0,No
+O00540,C0206,2025-04-26,P010,Sunglasses,Accessories,1,1599,1359.15,App,South,Regular Customer,Debit Card,15,No
+O00956,C0073,2025-04-26,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Website,North,Premium Customer,Wallet,10,No
+O00298,C0343,2025-04-27,P003,Oversized Shirt,Clothing,1,1799,1709.05,Store,North,New Customer,UPI,5,No
+O00390,C0248,2025-04-27,P007,Sneakers,Footwear,1,3499,3149.1,Store,East,Regular Customer,Debit Card,10,No
+O00448,C0103,2025-04-27,P005,Blazer,Outerwear,2,4999,9998.0,Store,South,Loyal Customer,Wallet,0,No
+O00671,C0229,2025-04-27,P009,Handbag,Accessories,1,2499,2124.15,App,North,Regular Customer,UPI,15,No
+O00805,C0133,2025-04-27,P006,Denim Jacket,Outerwear,2,3999,7598.1,Store,West,Loyal Customer,Credit Card,5,No
+O00352,C0184,2025-04-28,P012,Cargo Trousers,Clothing,2,2499,4248.3,Store,East,Regular Customer,Debit Card,15,No
+O00850,C0163,2025-04-28,P004,Summer Dress,Dresses,1,2999,2849.05,Store,West,Loyal Customer,Credit Card,5,No
+O00965,C0257,2025-04-28,P001,Basic T-Shirt,Clothing,2,799,1518.1,Website,West,Regular Customer,UPI,5,No
+O00223,C0144,2025-05-01,P007,Sneakers,Footwear,1,3499,3149.1,Website,West,Loyal Customer,UPI,10,No
+O00865,C0009,2025-05-01,P001,Basic T-Shirt,Clothing,2,799,1518.1,Store,North,Premium Customer,Debit Card,5,No
+O00904,C0172,2025-05-01,P011,Knit Sweater,Knitwear,2,2799,4758.3,Website,North,Loyal Customer,UPI,15,No
+O00252,C0278,2025-05-02,P004,Summer Dress,Dresses,2,2999,5398.2,App,North,Regular Customer,Wallet,10,No
+O00742,C0178,2025-05-02,P010,Sunglasses,Accessories,1,1599,1359.15,Website,West,Loyal Customer,Cash,15,No
+O00331,C0154,2025-05-05,P011,Knit Sweater,Knitwear,1,2799,2799.0,App,East,Loyal Customer,Debit Card,0,No
+O00538,C0076,2025-05-05,P007,Sneakers,Footwear,1,3499,2974.15,Website,South,Premium Customer,Debit Card,15,No
+O00021,C0187,2025-05-06,P001,Basic T-Shirt,Clothing,1,799,759.05,Store,West,Regular Customer,Debit Card,5,No
+O00253,C0032,2025-05-06,P007,Sneakers,Footwear,3,3499,9972.15,Store,West,Premium Customer,Wallet,5,No
+O00406,C0194,2025-05-06,P008,Leather Loafers,Footwear,1,4299,3654.15,App,East,Regular Customer,Wallet,15,No
+O00442,C0104,2025-05-06,P005,Blazer,Outerwear,2,4999,9498.1,Store,South,Loyal Customer,UPI,5,No
+O00610,C0076,2025-05-06,P007,Sneakers,Footwear,2,3499,5948.3,App,West,Premium Customer,Wallet,15,No
+O00633,C0173,2025-05-06,P007,Sneakers,Footwear,1,3499,2974.15,Store,South,Loyal Customer,Wallet,15,No
+O00666,C0001,2025-05-06,P004,Summer Dress,Dresses,2,2999,5098.3,Website,East,Premium Customer,Wallet,15,No
+O00323,C0268,2025-05-07,P003,Oversized Shirt,Clothing,2,1799,3598.0,Website,East,Regular Customer,UPI,0,No
+O00356,C0059,2025-05-07,P007,Sneakers,Footwear,1,3499,3324.05,Store,West,Premium Customer,Credit Card,5,No
+O00030,C0169,2025-05-08,P004,Summer Dress,Dresses,1,2999,2999.0,Store,North,Loyal Customer,Debit Card,0,No
+O00416,C0167,2025-05-08,P004,Summer Dress,Dresses,2,2999,5398.2,Store,West,Loyal Customer,Debit Card,10,No
+O00529,C0317,2025-05-08,P001,Basic T-Shirt,Clothing,1,799,759.05,Store,South,New Customer,Credit Card,5,No
+O00759,C0315,2025-05-08,P005,Blazer,Outerwear,1,4999,4499.1,Website,North,New Customer,Credit Card,10,No
+O00970,C0237,2025-05-08,P008,Leather Loafers,Footwear,1,4299,4299.0,Website,South,Regular Customer,Cash,0,No
+O00462,C0224,2025-05-09,P001,Basic T-Shirt,Clothing,1,799,719.1,App,South,Regular Customer,Wallet,10,No
+O00692,C0253,2025-05-09,P006,Denim Jacket,Outerwear,2,3999,7598.1,Store,South,Regular Customer,UPI,5,Yes
+O00811,C0210,2025-05-09,P007,Sneakers,Footwear,2,3499,6648.1,Website,West,Regular Customer,Wallet,5,No
+O00106,C0216,2025-05-10,P004,Summer Dress,Dresses,1,2999,2699.1,Website,North,Regular Customer,Wallet,10,No
+O00233,C0254,2025-05-10,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Store,East,Regular Customer,UPI,10,No
+O00628,C0157,2025-05-10,P010,Sunglasses,Accessories,1,1599,1599.0,Store,East,Loyal Customer,UPI,0,No
+O00682,C0304,2025-05-10,P004,Summer Dress,Dresses,4,2999,11396.2,App,South,New Customer,Cash,5,No
+O00819,C0161,2025-05-10,P007,Sneakers,Footwear,4,3499,12596.4,Website,North,Loyal Customer,UPI,10,No
+O00135,C0201,2025-05-11,P008,Leather Loafers,Footwear,2,4299,7738.2,Store,North,Regular Customer,Debit Card,10,No
+O00675,C0019,2025-05-11,P010,Sunglasses,Accessories,2,1599,3038.1,Store,North,Premium Customer,Wallet,5,No
+O00374,C0307,2025-05-12,P009,Handbag,Accessories,2,2499,4248.3,Website,West,New Customer,Debit Card,15,No
+O00589,C0251,2025-05-12,P011,Knit Sweater,Knitwear,1,2799,2379.15,Website,North,Regular Customer,UPI,15,No
+O00645,C0291,2025-05-12,P005,Blazer,Outerwear,2,4999,9998.0,Store,South,Regular Customer,Credit Card,0,No
+O00421,C0148,2025-05-14,P012,Cargo Trousers,Clothing,2,2499,4748.1,Website,East,Loyal Customer,Debit Card,5,No
+O00603,C0012,2025-05-14,P009,Handbag,Accessories,2,2499,4498.2,App,South,Premium Customer,Debit Card,10,No
+O00678,C0318,2025-05-14,P001,Basic T-Shirt,Clothing,1,799,759.05,App,South,New Customer,Cash,5,No
+O00806,C0286,2025-05-14,P010,Sunglasses,Accessories,1,1599,1519.05,Website,East,Regular Customer,Credit Card,5,No
+O00067,C0330,2025-05-16,P008,Leather Loafers,Footwear,2,4299,8168.1,Website,West,New Customer,Credit Card,5,No
+O00424,C0278,2025-05-17,P004,Summer Dress,Dresses,1,2999,2699.1,Store,North,Regular Customer,UPI,10,No
+O00510,C0385,2025-05-17,P010,Sunglasses,Accessories,1,1599,1279.2,Website,West,New Customer,Credit Card,20,Yes
+O00825,C0365,2025-05-17,P010,Sunglasses,Accessories,3,1599,4077.45,Store,South,New Customer,Cash,15,No
+O00399,C0351,2025-05-18,P005,Blazer,Outerwear,2,4999,9998.0,Store,North,New Customer,UPI,0,No
+O00460,C0267,2025-05-18,P006,Denim Jacket,Outerwear,1,3999,3799.05,Website,West,Regular Customer,Cash,5,No
+O00553,C0159,2025-05-18,P003,Oversized Shirt,Clothing,2,1799,2878.4,Website,North,Loyal Customer,Debit Card,20,No
+O00916,C0163,2025-05-18,P011,Knit Sweater,Knitwear,1,2799,2659.05,Website,North,Loyal Customer,Debit Card,5,No
+O00929,C0106,2025-05-18,P007,Sneakers,Footwear,2,3499,6298.2,Website,East,Loyal Customer,Cash,10,No
+O00095,C0212,2025-05-19,P001,Basic T-Shirt,Clothing,1,799,719.1,Store,West,Regular Customer,Wallet,10,No
+O00946,C0342,2025-05-19,P001,Basic T-Shirt,Clothing,3,799,2157.3,App,South,New Customer,Wallet,10,No
+O00687,C0328,2025-05-20,P005,Blazer,Outerwear,3,4999,13497.3,Store,South,New Customer,Credit Card,10,No
+O00690,C0019,2025-05-20,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,App,South,Premium Customer,UPI,0,No
+O00872,C0093,2025-05-20,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,Website,East,Loyal Customer,Credit Card,10,No
+O00871,C0233,2025-05-21,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Store,East,Regular Customer,Credit Card,15,No
+O00993,C0366,2025-05-21,P006,Denim Jacket,Outerwear,2,3999,7998.0,Website,East,New Customer,Wallet,0,No
+O00476,C0327,2025-05-22,P004,Summer Dress,Dresses,2,2999,5398.2,Website,West,New Customer,Wallet,10,No
+O00950,C0077,2025-05-22,P010,Sunglasses,Accessories,1,1599,1519.05,Website,South,Premium Customer,UPI,5,No
+O00038,C0013,2025-05-23,P012,Cargo Trousers,Clothing,2,2499,4998.0,Website,North,Premium Customer,Cash,0,No
+O00214,C0242,2025-05-23,P005,Blazer,Outerwear,3,4999,13497.3,App,East,Regular Customer,Wallet,10,No
+O00226,C0323,2025-05-23,P004,Summer Dress,Dresses,2,2999,5398.2,App,South,New Customer,Debit Card,10,No
+O00524,C0141,2025-05-23,P001,Basic T-Shirt,Clothing,1,799,679.15,Store,West,Loyal Customer,Wallet,15,No
+O00056,C0396,2025-05-24,P009,Handbag,Accessories,1,2499,1999.2,Store,North,New Customer,Debit Card,20,Yes
+O00720,C0196,2025-05-25,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,East,Regular Customer,Wallet,0,No
+O00931,C0333,2025-05-25,P001,Basic T-Shirt,Clothing,1,799,639.2,Store,East,New Customer,Debit Card,20,No
+O00999,C0257,2025-05-25,P010,Sunglasses,Accessories,2,1599,3038.1,Store,North,Regular Customer,UPI,5,Yes
+O00070,C0010,2025-05-26,P008,Leather Loafers,Footwear,1,4299,4299.0,Store,East,Premium Customer,UPI,0,No
+O00526,C0217,2025-05-26,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,App,North,Regular Customer,Credit Card,5,No
+O00534,C0390,2025-05-26,P008,Leather Loafers,Footwear,1,4299,3654.15,Store,South,New Customer,Credit Card,15,No
+O00563,C0015,2025-05-26,P012,Cargo Trousers,Clothing,2,2499,4498.2,Website,West,Premium Customer,Wallet,10,No
+O00789,C0032,2025-05-26,P010,Sunglasses,Accessories,3,1599,4317.3,Store,North,Premium Customer,Cash,10,No
+O00799,C0299,2025-05-26,P012,Cargo Trousers,Clothing,2,2499,4498.2,Website,South,Regular Customer,Credit Card,10,No
+O00908,C0267,2025-05-26,P012,Cargo Trousers,Clothing,1,2499,2124.15,Website,East,Regular Customer,Wallet,15,No
+O00024,C0124,2025-05-27,P011,Knit Sweater,Knitwear,3,2799,7977.15,App,North,Loyal Customer,Credit Card,5,No
+O00319,C0177,2025-05-27,P004,Summer Dress,Dresses,2,2999,5098.3,Store,South,Loyal Customer,Wallet,15,No
+O00552,C0278,2025-05-27,P010,Sunglasses,Accessories,1,1599,1279.2,App,West,Regular Customer,Cash,20,No
+O00856,C0108,2025-05-27,P009,Handbag,Accessories,1,2499,2374.05,Website,East,Loyal Customer,Cash,5,No
+O00174,C0392,2025-05-28,P011,Knit Sweater,Knitwear,1,2799,2799.0,Website,West,New Customer,Cash,0,No
+O00111,C0101,2025-05-29,P005,Blazer,Outerwear,1,4999,4249.15,App,West,Loyal Customer,Debit Card,15,No
+O00131,C0122,2025-05-29,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,App,East,Loyal Customer,Wallet,0,No
+O00234,C0382,2025-05-29,P011,Knit Sweater,Knitwear,2,2799,4478.4,Store,East,New Customer,Debit Card,20,No
+O00514,C0140,2025-05-29,P007,Sneakers,Footwear,2,3499,6648.1,App,West,Loyal Customer,Debit Card,5,No
+O00681,C0049,2025-05-29,P012,Cargo Trousers,Clothing,2,2499,4748.1,Store,North,Premium Customer,Credit Card,5,No
+O00899,C0145,2025-05-29,P006,Denim Jacket,Outerwear,2,3999,7998.0,Website,South,Loyal Customer,Cash,0,No
+O00039,C0092,2025-05-30,P002,Slim Fit Jeans,Clothing,2,2299,4368.1,App,East,Loyal Customer,Wallet,5,No
+O00025,C0148,2025-05-31,P007,Sneakers,Footwear,1,3499,3149.1,App,North,Loyal Customer,Debit Card,10,No
+O00627,C0037,2025-05-31,P010,Sunglasses,Accessories,2,1599,3038.1,Store,North,Premium Customer,Wallet,5,No
+O00808,C0186,2025-05-31,P006,Denim Jacket,Outerwear,3,3999,10797.3,Store,South,Regular Customer,Debit Card,10,No
+O00027,C0254,2025-06-01,P012,Cargo Trousers,Clothing,2,2499,4748.1,Website,West,Regular Customer,Debit Card,5,No
+O00183,C0305,2025-06-01,P005,Blazer,Outerwear,2,4999,8998.2,Store,North,New Customer,Cash,10,No
+O00337,C0354,2025-06-01,P011,Knit Sweater,Knitwear,4,2799,9516.6,App,North,New Customer,UPI,15,No
+O00444,C0028,2025-06-01,P011,Knit Sweater,Knitwear,1,2799,2659.05,App,East,Premium Customer,Cash,5,No
+O00618,C0038,2025-06-01,P006,Denim Jacket,Outerwear,1,3999,3999.0,App,South,Premium Customer,UPI,0,No
+O00969,C0337,2025-06-01,P007,Sneakers,Footwear,1,3499,3149.1,Website,West,New Customer,Debit Card,10,No
+O00619,C0019,2025-06-02,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Store,West,Premium Customer,Cash,10,No
+O00828,C0016,2025-06-02,P003,Oversized Shirt,Clothing,1,1799,1529.15,App,South,Premium Customer,UPI,15,No
+O00833,C0012,2025-06-02,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,South,Premium Customer,Debit Card,5,No
+O00896,C0359,2025-06-02,P002,Slim Fit Jeans,Clothing,4,2299,8276.4,Website,South,New Customer,UPI,10,No
+O00127,C0209,2025-06-03,P009,Handbag,Accessories,1,2499,2374.05,Website,North,Regular Customer,Cash,5,No
+O00212,C0220,2025-06-03,P009,Handbag,Accessories,2,2499,4748.1,Store,East,Regular Customer,UPI,5,No
+O00384,C0184,2025-06-03,P011,Knit Sweater,Knitwear,1,2799,2519.1,Store,North,Regular Customer,Credit Card,10,No
+O00579,C0232,2025-06-03,P008,Leather Loafers,Footwear,3,4299,12897.0,Website,South,Regular Customer,Cash,0,No
+O00686,C0143,2025-06-03,P003,Oversized Shirt,Clothing,2,1799,3598.0,App,East,Loyal Customer,UPI,0,No
+O00748,C0168,2025-06-04,P006,Denim Jacket,Outerwear,1,3999,3399.15,Website,West,Loyal Customer,Wallet,15,No
+O00325,C0375,2025-06-05,P009,Handbag,Accessories,2,2499,4748.1,Website,South,New Customer,Debit Card,5,No
+O00477,C0112,2025-06-05,P001,Basic T-Shirt,Clothing,1,799,719.1,Website,East,Loyal Customer,Debit Card,10,No
+O00499,C0109,2025-06-05,P007,Sneakers,Footwear,3,3499,8922.45,App,West,Loyal Customer,Wallet,15,No
+O00727,C0021,2025-06-05,P012,Cargo Trousers,Clothing,3,2499,7497.0,Store,West,Premium Customer,UPI,0,No
+O00903,C0377,2025-06-05,P008,Leather Loafers,Footwear,3,4299,11607.3,Store,East,New Customer,Cash,10,No
+O00165,C0026,2025-06-06,P002,Slim Fit Jeans,Clothing,3,2299,6897.0,App,North,Premium Customer,Wallet,0,No
+O00309,C0174,2025-06-06,P009,Handbag,Accessories,1,2499,2249.1,Website,West,Loyal Customer,Cash,10,No
+O00647,C0165,2025-06-06,P008,Leather Loafers,Footwear,1,4299,4299.0,Website,South,Loyal Customer,Credit Card,0,No
+O00208,C0290,2025-06-07,P004,Summer Dress,Dresses,2,2999,5098.3,App,West,Regular Customer,Credit Card,15,No
+O00290,C0137,2025-06-07,P012,Cargo Trousers,Clothing,3,2499,7122.15,Store,East,Loyal Customer,Wallet,5,Yes
+O00785,C0384,2025-06-08,P012,Cargo Trousers,Clothing,1,2499,2499.0,Website,East,New Customer,Cash,0,No
+O00892,C0141,2025-06-08,P007,Sneakers,Footwear,1,3499,2974.15,Website,North,Loyal Customer,Debit Card,15,No
+O00048,C0180,2025-06-09,P010,Sunglasses,Accessories,1,1599,1439.1,Website,South,Loyal Customer,Credit Card,10,No
+O00275,C0338,2025-06-09,P010,Sunglasses,Accessories,1,1599,1519.05,Website,North,New Customer,Credit Card,5,No
+O00780,C0297,2025-06-10,P010,Sunglasses,Accessories,1,1599,1359.15,App,East,Regular Customer,Credit Card,15,No
+O00921,C0385,2025-06-10,P003,Oversized Shirt,Clothing,2,1799,3598.0,App,East,New Customer,Wallet,0,No
+O00683,C0084,2025-06-11,P004,Summer Dress,Dresses,1,2999,2699.1,Store,East,Loyal Customer,Debit Card,10,No
+O00228,C0158,2025-06-12,P008,Leather Loafers,Footwear,2,4299,7308.3,Website,South,Loyal Customer,UPI,15,No
+O00795,C0253,2025-06-12,P009,Handbag,Accessories,1,2499,2249.1,Website,South,Regular Customer,Cash,10,No
+O00943,C0330,2025-06-12,P007,Sneakers,Footwear,3,3499,8922.45,Website,South,New Customer,Wallet,15,No
+O00188,C0130,2025-06-13,P007,Sneakers,Footwear,1,3499,3324.05,App,East,Loyal Customer,Wallet,5,No
+O00213,C0347,2025-06-13,P005,Blazer,Outerwear,2,4999,9498.1,Website,West,New Customer,Credit Card,5,No
+O00783,C0065,2025-06-13,P005,Blazer,Outerwear,1,4999,4499.1,App,South,Premium Customer,Cash,10,No
+O00276,C0248,2025-06-14,P011,Knit Sweater,Knitwear,3,2799,7977.15,Store,East,Regular Customer,UPI,5,No
+O00368,C0227,2025-06-14,P009,Handbag,Accessories,1,2499,2374.05,Store,South,Regular Customer,Wallet,5,No
+O00551,C0335,2025-06-14,P009,Handbag,Accessories,2,2499,4748.1,App,West,New Customer,Debit Card,5,No
+O00077,C0294,2025-06-15,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,Website,South,Regular Customer,UPI,0,No
+O00473,C0191,2025-06-15,P011,Knit Sweater,Knitwear,4,2799,10076.4,Website,North,Regular Customer,Cash,10,No
+O00740,C0158,2025-06-15,P004,Summer Dress,Dresses,1,2999,2849.05,Store,West,Loyal Customer,Cash,5,No
+O00771,C0365,2025-06-15,P006,Denim Jacket,Outerwear,2,3999,6798.3,Website,East,New Customer,Cash,15,No
+O00840,C0165,2025-06-15,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,App,West,Loyal Customer,Credit Card,0,No
+O00326,C0172,2025-06-16,P009,Handbag,Accessories,3,2499,7497.0,Website,West,Loyal Customer,Cash,0,No
+O00059,C0331,2025-06-17,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,Store,North,New Customer,Wallet,10,No
+O00758,C0300,2025-06-18,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,App,West,Regular Customer,Wallet,0,No
+O00940,C0153,2025-06-18,P008,Leather Loafers,Footwear,1,4299,3654.15,Website,East,Loyal Customer,Credit Card,15,Yes
+O00153,C0267,2025-06-19,P009,Handbag,Accessories,1,2499,2124.15,Website,East,Regular Customer,Cash,15,Yes
+O00371,C0119,2025-06-19,P012,Cargo Trousers,Clothing,1,2499,1999.2,App,North,Loyal Customer,Wallet,20,No
+O00714,C0121,2025-06-19,P007,Sneakers,Footwear,1,3499,3149.1,App,South,Loyal Customer,Cash,10,No
+O00471,C0003,2025-06-20,P005,Blazer,Outerwear,1,4999,4999.0,Store,South,Premium Customer,Debit Card,0,No
+O00650,C0370,2025-06-20,P010,Sunglasses,Accessories,1,1599,1359.15,App,North,New Customer,Wallet,15,No
+O00593,C0332,2025-06-21,P007,Sneakers,Footwear,1,3499,3324.05,App,East,New Customer,Wallet,5,No
+O00595,C0378,2025-06-21,P011,Knit Sweater,Knitwear,1,2799,2519.1,Store,South,New Customer,Credit Card,10,No
+O00966,C0094,2025-06-21,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Store,South,Loyal Customer,Credit Card,15,No
+O00180,C0012,2025-06-22,P007,Sneakers,Footwear,3,3499,9972.15,Store,North,Premium Customer,Cash,5,Yes
+O00302,C0215,2025-06-22,P006,Denim Jacket,Outerwear,4,3999,13596.6,Store,East,Regular Customer,Cash,15,No
+O00574,C0204,2025-06-22,P004,Summer Dress,Dresses,2,2999,5698.1,Store,North,Regular Customer,Debit Card,5,Yes
+O00169,C0271,2025-06-23,P012,Cargo Trousers,Clothing,1,2499,2374.05,Website,West,Regular Customer,Debit Card,5,No
+O00342,C0192,2025-06-24,P009,Handbag,Accessories,3,2499,5997.6,Website,North,Regular Customer,Debit Card,20,No
+O00607,C0197,2025-06-24,P009,Handbag,Accessories,2,2499,4498.2,App,South,Regular Customer,Credit Card,10,No
+O00994,C0265,2025-06-24,P011,Knit Sweater,Knitwear,2,2799,5598.0,Website,North,Regular Customer,Wallet,0,No
+O00154,C0009,2025-06-25,P008,Leather Loafers,Footwear,1,4299,4084.05,Store,East,Premium Customer,Debit Card,5,No
+O00465,C0165,2025-06-25,P006,Denim Jacket,Outerwear,3,3999,10197.45,App,North,Loyal Customer,Credit Card,15,No
+O00757,C0166,2025-06-25,P006,Denim Jacket,Outerwear,1,3999,3799.05,App,South,Loyal Customer,Debit Card,5,No
+O00115,C0063,2025-06-26,P011,Knit Sweater,Knitwear,1,2799,2519.1,Website,West,Premium Customer,UPI,10,Yes
+O00952,C0112,2025-06-26,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,App,East,Loyal Customer,Debit Card,0,No
+O00285,C0254,2025-06-27,P003,Oversized Shirt,Clothing,1,1799,1529.15,Store,North,Regular Customer,UPI,15,No
+O00480,C0144,2025-06-28,P011,Knit Sweater,Knitwear,4,2799,10076.4,App,North,Loyal Customer,UPI,10,No
+O00696,C0110,2025-06-29,P009,Handbag,Accessories,4,2499,8996.4,Store,West,Loyal Customer,UPI,10,No
+O00868,C0312,2025-06-29,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,South,New Customer,Wallet,5,No
+O00888,C0040,2025-06-29,P003,Oversized Shirt,Clothing,2,1799,3598.0,Website,North,Premium Customer,Credit Card,0,No
+O00829,C0277,2025-06-30,P001,Basic T-Shirt,Clothing,3,799,2157.3,Website,East,Regular Customer,Debit Card,10,No
+O00522,C0076,2025-07-01,P001,Basic T-Shirt,Clothing,4,799,2876.4,Website,West,Premium Customer,Credit Card,10,No
+O00701,C0208,2025-07-01,P001,Basic T-Shirt,Clothing,1,799,719.1,App,South,Regular Customer,Wallet,10,No
+O00941,C0023,2025-07-01,P009,Handbag,Accessories,1,2499,2374.05,App,West,Premium Customer,Wallet,5,No
+O00141,C0273,2025-07-02,P008,Leather Loafers,Footwear,1,4299,3654.15,App,West,Regular Customer,Credit Card,15,No
+O00237,C0116,2025-07-02,P003,Oversized Shirt,Clothing,1,1799,1799.0,Website,West,Loyal Customer,Wallet,0,No
+O00315,C0310,2025-07-02,P009,Handbag,Accessories,1,2499,2124.15,Website,North,New Customer,Debit Card,15,No
+O00488,C0316,2025-07-03,P007,Sneakers,Footwear,4,3499,13296.2,App,East,New Customer,Wallet,5,No
+O00653,C0052,2025-07-03,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,App,North,Premium Customer,Credit Card,15,No
+O00144,C0227,2025-07-04,P011,Knit Sweater,Knitwear,1,2799,2799.0,Store,West,Regular Customer,Cash,0,No
+O00724,C0092,2025-07-04,P001,Basic T-Shirt,Clothing,2,799,1598.0,App,North,Loyal Customer,Credit Card,0,No
+O00794,C0045,2025-07-04,P009,Handbag,Accessories,1,2499,2499.0,App,North,Premium Customer,Debit Card,0,No
+O00360,C0338,2025-07-05,P003,Oversized Shirt,Clothing,1,1799,1529.15,Website,North,New Customer,UPI,15,No
+O00905,C0226,2025-07-05,P010,Sunglasses,Accessories,1,1599,1359.15,App,West,Regular Customer,Debit Card,15,No
+O00542,C0258,2025-07-06,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,South,Regular Customer,Credit Card,0,No
+O00565,C0217,2025-07-06,P001,Basic T-Shirt,Clothing,3,799,2277.15,Store,West,Regular Customer,Debit Card,5,No
+O00659,C0379,2025-07-06,P006,Denim Jacket,Outerwear,1,3999,3399.15,App,West,New Customer,UPI,15,No
+O00003,C0277,2025-07-07,P001,Basic T-Shirt,Clothing,1,799,799.0,Website,South,Regular Customer,Credit Card,0,No
+O00034,C0373,2025-07-07,P006,Denim Jacket,Outerwear,3,3999,11397.15,Website,North,New Customer,Debit Card,5,No
+O00160,C0258,2025-07-07,P012,Cargo Trousers,Clothing,1,2499,2374.05,App,West,Regular Customer,Credit Card,5,No
+O00239,C0013,2025-07-07,P005,Blazer,Outerwear,4,4999,16996.6,Store,North,Premium Customer,Cash,15,Yes
+O00262,C0227,2025-07-07,P010,Sunglasses,Accessories,1,1599,1599.0,Website,North,Regular Customer,Cash,0,No
+O00735,C0017,2025-07-07,P008,Leather Loafers,Footwear,1,4299,4084.05,Store,East,Premium Customer,Cash,5,No
+O00830,C0359,2025-07-08,P008,Leather Loafers,Footwear,1,4299,4299.0,Website,East,New Customer,UPI,0,No
+O00884,C0242,2025-07-08,P007,Sneakers,Footwear,1,3499,2974.15,App,South,Regular Customer,UPI,15,No
+O00984,C0258,2025-07-08,P009,Handbag,Accessories,2,2499,4498.2,App,South,Regular Customer,UPI,10,No
+O00008,C0162,2025-07-09,P010,Sunglasses,Accessories,2,1599,3038.1,Store,South,Loyal Customer,Cash,5,No
+O00130,C0287,2025-07-09,P006,Denim Jacket,Outerwear,2,3999,7198.2,Store,South,Regular Customer,Wallet,10,No
+O00802,C0261,2025-07-09,P011,Knit Sweater,Knitwear,2,2799,4758.3,Store,West,Regular Customer,Debit Card,15,No
+O00348,C0141,2025-07-10,P008,Leather Loafers,Footwear,2,4299,7308.3,Store,West,Loyal Customer,Credit Card,15,No
+O00493,C0188,2025-07-10,P010,Sunglasses,Accessories,1,1599,1439.1,Store,South,Regular Customer,Debit Card,10,No
+O00632,C0144,2025-07-10,P006,Denim Jacket,Outerwear,1,3999,3599.1,App,West,Loyal Customer,UPI,10,No
+O00836,C0315,2025-07-10,P010,Sunglasses,Accessories,1,1599,1599.0,App,South,New Customer,Wallet,0,No
+O00925,C0320,2025-07-10,P009,Handbag,Accessories,1,2499,2374.05,Website,West,New Customer,Credit Card,5,No
+O00002,C0373,2025-07-11,P004,Summer Dress,Dresses,1,2999,2399.2,App,East,New Customer,Credit Card,20,No
+O00044,C0239,2025-07-11,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,App,South,Regular Customer,Wallet,10,No
+O00199,C0001,2025-07-11,P003,Oversized Shirt,Clothing,1,1799,1619.1,Store,South,Premium Customer,Cash,10,No
+O00265,C0319,2025-07-11,P003,Oversized Shirt,Clothing,2,1799,2878.4,App,North,New Customer,Cash,20,No
+O00146,C0177,2025-07-12,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,West,Loyal Customer,UPI,5,No
+O00410,C0162,2025-07-12,P007,Sneakers,Footwear,1,3499,3149.1,App,East,Loyal Customer,Debit Card,10,No
+O00723,C0297,2025-07-12,P007,Sneakers,Footwear,1,3499,3324.05,Store,South,Regular Customer,Wallet,5,No
+O00942,C0315,2025-07-12,P009,Handbag,Accessories,1,2499,2124.15,Website,South,New Customer,UPI,15,No
+O00093,C0075,2025-07-13,P004,Summer Dress,Dresses,1,2999,2999.0,App,South,Premium Customer,UPI,0,No
+O00310,C0179,2025-07-13,P004,Summer Dress,Dresses,1,2999,2849.05,Store,West,Loyal Customer,Cash,5,No
+O00572,C0218,2025-07-13,P003,Oversized Shirt,Clothing,2,1799,3418.1,Store,East,Regular Customer,UPI,5,No
+O00124,C0285,2025-07-14,P012,Cargo Trousers,Clothing,2,2499,4748.1,Store,North,Regular Customer,Credit Card,5,No
+O00512,C0118,2025-07-14,P010,Sunglasses,Accessories,2,1599,2878.2,Store,West,Loyal Customer,Wallet,10,No
+O00600,C0392,2025-07-14,P008,Leather Loafers,Footwear,1,4299,4299.0,Store,West,New Customer,Wallet,0,No
+O00718,C0098,2025-07-14,P007,Sneakers,Footwear,1,3499,3149.1,Store,West,Loyal Customer,Debit Card,10,No
+O00651,C0295,2025-07-15,P010,Sunglasses,Accessories,3,1599,4797.0,Store,South,Regular Customer,Credit Card,0,No
+O00733,C0251,2025-07-15,P007,Sneakers,Footwear,1,3499,3499.0,Website,West,Regular Customer,Cash,0,No
+O00472,C0074,2025-07-16,P011,Knit Sweater,Knitwear,2,2799,4758.3,Website,West,Premium Customer,Cash,15,No
+O00689,C0268,2025-07-16,P007,Sneakers,Footwear,2,3499,6298.2,Website,North,Regular Customer,Credit Card,10,No
+O00147,C0073,2025-07-17,P001,Basic T-Shirt,Clothing,1,799,679.15,Website,West,Premium Customer,Debit Card,15,No
+O00267,C0303,2025-07-17,P011,Knit Sweater,Knitwear,2,2799,5318.1,Store,South,New Customer,Debit Card,5,No
+O00743,C0017,2025-07-17,P004,Summer Dress,Dresses,2,2999,5398.2,Website,North,Premium Customer,Credit Card,10,No
+O00798,C0071,2025-07-17,P006,Denim Jacket,Outerwear,4,3999,14396.4,Website,East,Premium Customer,Wallet,10,No
+O00202,C0331,2025-07-18,P001,Basic T-Shirt,Clothing,2,799,1518.1,App,South,New Customer,Credit Card,5,No
+O00244,C0343,2025-07-19,P008,Leather Loafers,Footwear,2,4299,7738.2,Store,North,New Customer,Wallet,10,No
+O00494,C0120,2025-07-19,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,East,Loyal Customer,Wallet,0,No
+O00575,C0171,2025-07-19,P012,Cargo Trousers,Clothing,1,2499,2249.1,Store,West,Loyal Customer,Debit Card,10,No
+O00023,C0294,2025-07-20,P008,Leather Loafers,Footwear,2,4299,7738.2,Website,South,Regular Customer,UPI,10,No
+O00068,C0186,2025-07-20,P012,Cargo Trousers,Clothing,1,2499,2374.05,Website,West,Regular Customer,UPI,5,No
+O00307,C0267,2025-07-20,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Website,North,Regular Customer,UPI,15,No
+O00831,C0017,2025-07-21,P003,Oversized Shirt,Clothing,2,1799,3238.2,App,East,Premium Customer,Credit Card,10,No
+O00341,C0308,2025-07-22,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,South,New Customer,Debit Card,10,No
+O00163,C0394,2025-07-23,P006,Denim Jacket,Outerwear,1,3999,3399.15,Website,South,New Customer,Wallet,15,Yes
+O00345,C0208,2025-07-23,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Website,North,Regular Customer,Wallet,15,No
+O00907,C0216,2025-07-23,P006,Denim Jacket,Outerwear,2,3999,6798.3,Website,South,Regular Customer,Credit Card,15,Yes
+O00355,C0052,2025-07-24,P004,Summer Dress,Dresses,1,2999,2849.05,Store,South,Premium Customer,Cash,5,No
+O00497,C0084,2025-07-24,P007,Sneakers,Footwear,1,3499,2974.15,Website,West,Loyal Customer,Cash,15,No
+O00824,C0104,2025-07-24,P006,Denim Jacket,Outerwear,1,3999,3599.1,Store,West,Loyal Customer,Cash,10,No
+O00193,C0285,2025-07-25,P001,Basic T-Shirt,Clothing,1,799,799.0,App,South,Regular Customer,Debit Card,0,No
+O00867,C0394,2025-07-25,P009,Handbag,Accessories,2,2499,4498.2,App,North,New Customer,Credit Card,10,No
+O00013,C0227,2025-07-26,P005,Blazer,Outerwear,2,4999,8998.2,Store,East,Regular Customer,Debit Card,10,No
+O00191,C0121,2025-07-26,P011,Knit Sweater,Knitwear,1,2799,2379.15,Store,North,Loyal Customer,Cash,15,No
+O00463,C0173,2025-07-26,P012,Cargo Trousers,Clothing,1,2499,2249.1,Website,South,Loyal Customer,Wallet,10,No
+O00961,C0320,2025-07-26,P004,Summer Dress,Dresses,2,2999,4798.4,App,West,New Customer,Wallet,20,No
+O00029,C0227,2025-07-27,P009,Handbag,Accessories,1,2499,2374.05,Store,North,Regular Customer,Debit Card,5,No
+O00545,C0141,2025-07-27,P011,Knit Sweater,Knitwear,1,2799,2659.05,Store,North,Loyal Customer,Credit Card,5,No
+O00767,C0072,2025-07-27,P005,Blazer,Outerwear,1,4999,4999.0,App,East,Premium Customer,Wallet,0,No
+O00734,C0216,2025-07-29,P009,Handbag,Accessories,2,2499,4498.2,App,West,Regular Customer,Cash,10,Yes
+O00880,C0006,2025-07-29,P010,Sunglasses,Accessories,1,1599,1519.05,Store,West,Premium Customer,Wallet,5,No
+O00427,C0379,2025-07-31,P009,Handbag,Accessories,2,2499,4498.2,Website,East,New Customer,Credit Card,10,No
+O00569,C0355,2025-07-31,P001,Basic T-Shirt,Clothing,1,799,719.1,Website,South,New Customer,Debit Card,10,No
+O00272,C0297,2025-08-01,P006,Denim Jacket,Outerwear,1,3999,3399.15,App,West,Regular Customer,Cash,15,No
+O00887,C0358,2025-08-01,P006,Denim Jacket,Outerwear,2,3999,6798.3,Store,South,New Customer,Cash,15,No
+O00973,C0266,2025-08-01,P010,Sunglasses,Accessories,2,1599,3038.1,Store,East,Regular Customer,Debit Card,5,No
+O00083,C0346,2025-08-02,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,App,South,New Customer,UPI,0,No
+O00211,C0310,2025-08-02,P001,Basic T-Shirt,Clothing,2,799,1278.4,Website,North,New Customer,Wallet,20,No
+O00434,C0335,2025-08-02,P012,Cargo Trousers,Clothing,1,2499,2374.05,Website,East,New Customer,Cash,5,No
+O00536,C0106,2025-08-02,P011,Knit Sweater,Knitwear,3,2799,7977.15,Store,West,Loyal Customer,Wallet,5,No
+O00826,C0384,2025-08-02,P002,Slim Fit Jeans,Clothing,3,2299,6207.3,Website,East,New Customer,Wallet,10,No
+O00116,C0148,2025-08-03,P006,Denim Jacket,Outerwear,4,3999,14396.4,Store,East,Loyal Customer,Wallet,10,No
+O00318,C0090,2025-08-03,P007,Sneakers,Footwear,1,3499,3149.1,Store,North,Loyal Customer,Wallet,10,No
+O00967,C0270,2025-08-03,P008,Leather Loafers,Footwear,1,4299,3869.1,Website,East,Regular Customer,Debit Card,10,No
+O00151,C0099,2025-08-04,P004,Summer Dress,Dresses,1,2999,2699.1,Store,North,Loyal Customer,UPI,10,No
+O00670,C0176,2025-08-04,P011,Knit Sweater,Knitwear,1,2799,2799.0,App,North,Loyal Customer,UPI,0,No
+O00750,C0308,2025-08-04,P012,Cargo Trousers,Clothing,1,2499,2499.0,Store,South,New Customer,Cash,0,No
+O00818,C0302,2025-08-04,P006,Denim Jacket,Outerwear,1,3999,3199.2,Store,North,New Customer,UPI,20,No
+O00375,C0104,2025-08-06,P003,Oversized Shirt,Clothing,1,1799,1619.1,Store,North,Loyal Customer,Cash,10,No
+O00586,C0230,2025-08-06,P011,Knit Sweater,Knitwear,1,2799,2519.1,Website,North,Regular Customer,Cash,10,No
+O00418,C0157,2025-08-07,P010,Sunglasses,Accessories,1,1599,1279.2,App,South,Loyal Customer,Credit Card,20,No
+O00498,C0337,2025-08-07,P006,Denim Jacket,Outerwear,1,3999,3999.0,App,North,New Customer,Credit Card,0,No
+O00570,C0291,2025-08-07,P005,Blazer,Outerwear,2,4999,9498.1,Website,South,Regular Customer,Wallet,5,No
+O00726,C0097,2025-08-07,P011,Knit Sweater,Knitwear,1,2799,2519.1,Website,South,Loyal Customer,Credit Card,10,No
+O00746,C0004,2025-08-07,P010,Sunglasses,Accessories,1,1599,1359.15,App,North,Premium Customer,UPI,15,No
+O00863,C0278,2025-08-07,P011,Knit Sweater,Knitwear,1,2799,2379.15,Store,East,Regular Customer,Wallet,15,No
+O00062,C0182,2025-08-08,P007,Sneakers,Footwear,1,3499,3324.05,Website,South,Regular Customer,Credit Card,5,No
+O00092,C0350,2025-08-08,P008,Leather Loafers,Footwear,1,4299,4299.0,Store,East,New Customer,Credit Card,0,No
+O00288,C0386,2025-08-08,P007,Sneakers,Footwear,3,3499,9972.15,Website,North,New Customer,UPI,5,Yes
+O00520,C0188,2025-08-08,P003,Oversized Shirt,Clothing,1,1799,1529.15,Store,West,Regular Customer,Wallet,15,No
+O00737,C0379,2025-08-08,P011,Knit Sweater,Knitwear,1,2799,2659.05,App,East,New Customer,Debit Card,5,Yes
+O00739,C0038,2025-08-08,P011,Knit Sweater,Knitwear,2,2799,5598.0,Website,East,Premium Customer,Credit Card,0,No
+O00891,C0327,2025-08-08,P001,Basic T-Shirt,Clothing,1,799,799.0,Store,West,New Customer,Cash,0,No
+O00393,C0266,2025-08-09,P011,Knit Sweater,Knitwear,1,2799,2239.2,App,North,Regular Customer,Wallet,20,No
+O00453,C0173,2025-08-09,P002,Slim Fit Jeans,Clothing,4,2299,8736.2,Website,North,Loyal Customer,Credit Card,5,Yes
+O00500,C0189,2025-08-09,P007,Sneakers,Footwear,1,3499,3149.1,Website,South,Regular Customer,Credit Card,10,Yes
+O00711,C0056,2025-08-09,P009,Handbag,Accessories,4,2499,9996.0,Store,West,Premium Customer,Wallet,0,No
+O00858,C0105,2025-08-09,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Store,South,Loyal Customer,Cash,15,No
+O00864,C0348,2025-08-09,P008,Leather Loafers,Footwear,2,4299,8168.1,Website,East,New Customer,Cash,5,No
+O00481,C0212,2025-08-10,P005,Blazer,Outerwear,2,4999,8998.2,Store,East,Regular Customer,Wallet,10,Yes
+O00991,C0217,2025-08-10,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Store,West,Regular Customer,Wallet,10,No
+O00122,C0096,2025-08-11,P008,Leather Loafers,Footwear,2,4299,6878.4,Store,West,Loyal Customer,Wallet,20,Yes
+O00247,C0261,2025-08-11,P006,Denim Jacket,Outerwear,1,3999,3999.0,Store,West,Regular Customer,UPI,0,No
+O00853,C0132,2025-08-11,P010,Sunglasses,Accessories,1,1599,1439.1,Store,West,Loyal Customer,Cash,10,No
+O00451,C0387,2025-08-12,P011,Knit Sweater,Knitwear,2,2799,5598.0,App,South,New Customer,Credit Card,0,No
+O00548,C0021,2025-08-12,P005,Blazer,Outerwear,1,4999,4499.1,Store,West,Premium Customer,Credit Card,10,No
+O00596,C0383,2025-08-12,P006,Denim Jacket,Outerwear,2,3999,7598.1,Website,East,New Customer,Cash,5,Yes
+O00879,C0332,2025-08-12,P007,Sneakers,Footwear,1,3499,2974.15,Website,North,New Customer,Credit Card,15,No
+O00018,C0121,2025-08-13,P004,Summer Dress,Dresses,1,2999,2699.1,Website,East,Loyal Customer,Wallet,10,No
+O00555,C0129,2025-08-13,P011,Knit Sweater,Knitwear,2,2799,5038.2,Website,West,Loyal Customer,UPI,10,No
+O00076,C0112,2025-08-14,P007,Sneakers,Footwear,2,3499,5948.3,Store,North,Loyal Customer,Cash,15,No
+O00149,C0059,2025-08-14,P008,Leather Loafers,Footwear,1,4299,3654.15,Store,East,Premium Customer,Debit Card,15,No
+O00380,C0241,2025-08-14,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,App,West,Regular Customer,Debit Card,0,No
+O00133,C0111,2025-08-15,P008,Leather Loafers,Footwear,1,4299,4084.05,Store,North,Loyal Customer,Debit Card,5,No
+O00837,C0347,2025-08-15,P009,Handbag,Accessories,1,2499,2374.05,Website,West,New Customer,Cash,5,No
+O00090,C0042,2025-08-17,P009,Handbag,Accessories,2,2499,4498.2,Website,West,Premium Customer,Wallet,10,No
+O00364,C0355,2025-08-17,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,Website,East,New Customer,Credit Card,0,No
+O00697,C0232,2025-08-17,P007,Sneakers,Footwear,1,3499,2974.15,App,West,Regular Customer,UPI,15,No
+O00787,C0099,2025-08-17,P010,Sunglasses,Accessories,3,1599,4557.15,Store,East,Loyal Customer,Debit Card,5,No
+O00841,C0279,2025-08-17,P011,Knit Sweater,Knitwear,1,2799,2239.2,Store,East,Regular Customer,Debit Card,20,No
+O00466,C0390,2025-08-18,P009,Handbag,Accessories,1,2499,2249.1,Store,East,New Customer,Wallet,10,No
+O00532,C0071,2025-08-18,P008,Leather Loafers,Footwear,2,4299,7738.2,Website,East,Premium Customer,Credit Card,10,No
+O00909,C0314,2025-08-18,P008,Leather Loafers,Footwear,2,4299,8168.1,Website,West,New Customer,Credit Card,5,No
+O00245,C0087,2025-08-20,P011,Knit Sweater,Knitwear,1,2799,2799.0,Store,East,Loyal Customer,Wallet,0,Yes
+O00814,C0208,2025-08-20,P010,Sunglasses,Accessories,1,1599,1519.05,App,West,Regular Customer,Debit Card,5,No
+O00870,C0093,2025-08-20,P011,Knit Sweater,Knitwear,1,2799,2519.1,App,East,Loyal Customer,Credit Card,10,No
+O00443,C0235,2025-08-22,P010,Sunglasses,Accessories,1,1599,1599.0,Store,South,Regular Customer,UPI,0,No
+O00849,C0044,2025-08-22,P012,Cargo Trousers,Clothing,2,2499,4998.0,App,West,Premium Customer,Debit Card,0,No
+O00058,C0109,2025-08-23,P005,Blazer,Outerwear,4,4999,19996.0,Website,East,Loyal Customer,Wallet,0,No
+O00361,C0218,2025-08-23,P001,Basic T-Shirt,Clothing,2,799,1598.0,Store,North,Regular Customer,Wallet,0,No
+O00367,C0326,2025-08-23,P012,Cargo Trousers,Clothing,2,2499,4998.0,App,West,New Customer,Cash,0,No
+O00976,C0062,2025-08-23,P002,Slim Fit Jeans,Clothing,3,2299,6207.3,Store,East,Premium Customer,Credit Card,10,No
+O00166,C0075,2025-08-24,P004,Summer Dress,Dresses,2,2999,5398.2,Store,East,Premium Customer,UPI,10,No
+O00340,C0184,2025-08-24,P004,Summer Dress,Dresses,3,2999,8997.0,Website,South,Regular Customer,Cash,0,No
+O00945,C0170,2025-08-24,P010,Sunglasses,Accessories,1,1599,1439.1,Website,South,Loyal Customer,Debit Card,10,No
+O00100,C0316,2025-08-25,P003,Oversized Shirt,Clothing,1,1799,1619.1,App,North,New Customer,UPI,10,No
+O00503,C0308,2025-08-25,P009,Handbag,Accessories,2,2499,4248.3,Store,North,New Customer,Cash,15,No
+O00518,C0242,2025-08-25,P010,Sunglasses,Accessories,1,1599,1519.05,Website,North,Regular Customer,Credit Card,5,No
+O00728,C0005,2025-08-25,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,East,Premium Customer,UPI,5,No
+O00550,C0374,2025-08-27,P004,Summer Dress,Dresses,1,2999,2999.0,Store,West,New Customer,Cash,0,No
+O00661,C0010,2025-08-27,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,Website,North,Premium Customer,UPI,10,No
+O00382,C0397,2025-08-28,P003,Oversized Shirt,Clothing,1,1799,1529.15,App,North,New Customer,UPI,15,No
+O00576,C0298,2025-08-28,P010,Sunglasses,Accessories,1,1599,1519.05,App,South,Regular Customer,Debit Card,5,No
+O00876,C0382,2025-08-28,P008,Leather Loafers,Footwear,2,4299,8598.0,Website,East,New Customer,Debit Card,0,No
+O00312,C0268,2025-08-29,P006,Denim Jacket,Outerwear,1,3999,3599.1,App,West,Regular Customer,Wallet,10,No
+O00242,C0192,2025-08-30,P001,Basic T-Shirt,Clothing,2,799,1518.1,Store,North,Regular Customer,Credit Card,5,No
+O00435,C0256,2025-08-30,P007,Sneakers,Footwear,1,3499,3324.05,App,South,Regular Customer,Debit Card,5,No
+O00436,C0121,2025-08-30,P001,Basic T-Shirt,Clothing,1,799,799.0,Store,North,Loyal Customer,Wallet,0,No
+O00852,C0226,2025-08-30,P007,Sneakers,Footwear,2,3499,6648.1,Store,West,Regular Customer,Wallet,5,No
+O00861,C0040,2025-08-30,P005,Blazer,Outerwear,3,4999,13497.3,App,West,Premium Customer,Debit Card,10,No
+O00015,C0388,2025-08-31,P005,Blazer,Outerwear,1,4999,4749.05,App,North,New Customer,Debit Card,5,Yes
+O00260,C0314,2025-08-31,P006,Denim Jacket,Outerwear,1,3999,3199.2,Store,South,New Customer,Debit Card,20,No
+O00269,C0259,2025-09-02,P011,Knit Sweater,Knitwear,2,2799,5038.2,App,South,Regular Customer,Debit Card,10,No
+O00407,C0313,2025-09-02,P001,Basic T-Shirt,Clothing,1,799,759.05,App,North,New Customer,Cash,5,No
+O00615,C0371,2025-09-02,P008,Leather Loafers,Footwear,2,4299,7738.2,App,East,New Customer,UPI,10,No
+O00543,C0346,2025-09-03,P006,Denim Jacket,Outerwear,1,3999,3999.0,Store,East,New Customer,Wallet,0,No
+O00592,C0095,2025-09-03,P005,Blazer,Outerwear,1,4999,4249.15,App,South,Loyal Customer,Debit Card,15,Yes
+O00732,C0276,2025-09-03,P009,Handbag,Accessories,1,2499,2249.1,App,East,Regular Customer,Wallet,10,No
+O00859,C0379,2025-09-03,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Store,South,New Customer,Wallet,15,Yes
+O00954,C0206,2025-09-03,P001,Basic T-Shirt,Clothing,1,799,799.0,Store,East,Regular Customer,UPI,0,No
+O00297,C0066,2025-09-04,P003,Oversized Shirt,Clothing,2,1799,3598.0,Store,West,Premium Customer,UPI,0,No
+O00441,C0383,2025-09-04,P006,Denim Jacket,Outerwear,2,3999,7998.0,App,East,New Customer,Wallet,0,No
+O00674,C0376,2025-09-04,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,West,New Customer,Wallet,5,No
+O00807,C0046,2025-09-04,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,Website,West,Premium Customer,UPI,10,No
+O00284,C0270,2025-09-05,P011,Knit Sweater,Knitwear,4,2799,9516.6,Store,West,Regular Customer,UPI,15,No
+O00294,C0213,2025-09-05,P008,Leather Loafers,Footwear,3,4299,11607.3,Website,East,Regular Customer,Cash,10,No
+O00423,C0065,2025-09-05,P003,Oversized Shirt,Clothing,2,1799,3418.1,App,South,Premium Customer,Wallet,5,Yes
+O00817,C0028,2025-09-05,P001,Basic T-Shirt,Clothing,1,799,759.05,Store,West,Premium Customer,Credit Card,5,No
+O00617,C0246,2025-09-06,P005,Blazer,Outerwear,1,4999,4749.05,App,West,Regular Customer,Debit Card,5,No
+O00074,C0051,2025-09-07,P004,Summer Dress,Dresses,2,2999,5998.0,App,North,Premium Customer,Credit Card,0,No
+O00496,C0177,2025-09-07,P011,Knit Sweater,Knitwear,1,2799,2239.2,Store,East,Loyal Customer,Wallet,20,No
+O00511,C0367,2025-09-07,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,West,New Customer,Debit Card,5,No
+O00515,C0340,2025-09-07,P001,Basic T-Shirt,Clothing,2,799,1438.2,Store,North,New Customer,Credit Card,10,No
+O00266,C0019,2025-09-08,P004,Summer Dress,Dresses,1,2999,2999.0,App,North,Premium Customer,Debit Card,0,No
+O00050,C0323,2025-09-10,P001,Basic T-Shirt,Clothing,1,799,759.05,Store,South,New Customer,Credit Card,5,No
+O00028,C0054,2025-09-11,P008,Leather Loafers,Footwear,1,4299,4299.0,Store,West,Premium Customer,Cash,0,No
+O00104,C0231,2025-09-11,P011,Knit Sweater,Knitwear,2,2799,5038.2,Store,South,Regular Customer,UPI,10,No
+O00022,C0130,2025-09-12,P005,Blazer,Outerwear,2,4999,8998.2,Website,West,Loyal Customer,Debit Card,10,No
+O00120,C0055,2025-09-12,P012,Cargo Trousers,Clothing,2,2499,4998.0,Store,East,Premium Customer,Debit Card,0,No
+O00403,C0149,2025-09-12,P008,Leather Loafers,Footwear,1,4299,3654.15,Store,East,Loyal Customer,Credit Card,15,No
+O00800,C0085,2025-09-12,P004,Summer Dress,Dresses,2,2999,5698.1,App,South,Loyal Customer,Debit Card,5,No
+O00641,C0050,2025-09-13,P004,Summer Dress,Dresses,1,2999,2549.15,App,East,Premium Customer,Wallet,15,No
+O00167,C0092,2025-09-14,P005,Blazer,Outerwear,2,4999,9498.1,Store,North,Loyal Customer,Debit Card,5,No
+O00464,C0388,2025-09-14,P007,Sneakers,Footwear,1,3499,3149.1,Store,West,New Customer,Cash,10,No
+O00590,C0030,2025-09-14,P006,Denim Jacket,Outerwear,3,3999,11397.15,Website,West,Premium Customer,Wallet,5,No
+O00688,C0294,2025-09-14,P012,Cargo Trousers,Clothing,1,2499,2249.1,App,South,Regular Customer,Debit Card,10,No
+O00422,C0207,2025-09-15,P011,Knit Sweater,Knitwear,2,2799,5038.2,Store,North,Regular Customer,Debit Card,10,No
+O00776,C0024,2025-09-16,P004,Summer Dress,Dresses,1,2999,2999.0,Website,North,Premium Customer,UPI,0,Yes
+O00148,C0295,2025-09-17,P008,Leather Loafers,Footwear,1,4299,3869.1,Store,West,Regular Customer,Cash,10,No
+O00330,C0388,2025-09-17,P001,Basic T-Shirt,Clothing,1,799,639.2,App,North,New Customer,Wallet,20,No
+O00246,C0314,2025-09-18,P004,Summer Dress,Dresses,3,2999,7647.45,Website,East,New Customer,Credit Card,15,No
+O00567,C0142,2025-09-18,P007,Sneakers,Footwear,1,3499,2974.15,App,East,Loyal Customer,Credit Card,15,No
+O00156,C0301,2025-09-19,P003,Oversized Shirt,Clothing,2,1799,3238.2,Store,West,New Customer,UPI,10,No
+O00210,C0039,2025-09-20,P007,Sneakers,Footwear,2,3499,6648.1,App,North,Premium Customer,Cash,5,Yes
+O00215,C0160,2025-09-20,P011,Knit Sweater,Knitwear,2,2799,5598.0,App,South,Loyal Customer,Debit Card,0,No
+O00040,C0314,2025-09-21,P010,Sunglasses,Accessories,1,1599,1519.05,App,West,New Customer,Wallet,5,No
+O00346,C0194,2025-09-21,P009,Handbag,Accessories,1,2499,2124.15,App,West,Regular Customer,Credit Card,15,Yes
+O00531,C0284,2025-09-21,P002,Slim Fit Jeans,Clothing,1,2299,1839.2,Website,South,Regular Customer,Wallet,20,No
+O00768,C0311,2025-09-21,P011,Knit Sweater,Knitwear,2,2799,5038.2,App,South,New Customer,UPI,10,No
+O00769,C0097,2025-09-21,P005,Blazer,Outerwear,1,4999,4249.15,Store,South,Loyal Customer,Cash,15,No
+O00292,C0131,2025-09-22,P001,Basic T-Shirt,Clothing,3,799,2397.0,App,West,Loyal Customer,Wallet,0,No
+O00389,C0091,2025-09-22,P006,Denim Jacket,Outerwear,1,3999,3399.15,Website,North,Loyal Customer,Cash,15,No
+O00189,C0301,2025-09-23,P007,Sneakers,Footwear,3,3499,9972.15,Website,East,New Customer,Wallet,5,No
+O00778,C0024,2025-09-24,P012,Cargo Trousers,Clothing,1,2499,2249.1,App,West,Premium Customer,UPI,10,No
+O00838,C0320,2025-09-24,P008,Leather Loafers,Footwear,1,4299,4084.05,App,South,New Customer,Debit Card,5,No
+O00886,C0340,2025-09-24,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Store,East,New Customer,Credit Card,15,No
+O00049,C0340,2025-09-25,P008,Leather Loafers,Footwear,2,4299,7738.2,Store,East,New Customer,Wallet,10,No
+O00287,C0072,2025-09-25,P007,Sneakers,Footwear,3,3499,9447.3,Website,East,Premium Customer,Cash,10,No
+O00369,C0102,2025-09-25,P008,Leather Loafers,Footwear,1,4299,4084.05,Store,North,Loyal Customer,UPI,5,No
+O00626,C0067,2025-09-25,P009,Handbag,Accessories,1,2499,2499.0,App,East,Premium Customer,Wallet,0,No
+O00963,C0364,2025-09-25,P011,Knit Sweater,Knitwear,4,2799,11196.0,Store,South,New Customer,UPI,0,No
+O00459,C0064,2025-09-26,P010,Sunglasses,Accessories,1,1599,1359.15,Store,North,Premium Customer,Wallet,15,No
+O00468,C0287,2025-09-26,P011,Knit Sweater,Knitwear,1,2799,2519.1,Store,South,Regular Customer,Wallet,10,No
+O00606,C0249,2025-09-26,P002,Slim Fit Jeans,Clothing,2,2299,4138.2,App,South,Regular Customer,Wallet,10,No
+O00809,C0104,2025-09-26,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Store,North,Loyal Customer,Cash,15,No
+O00099,C0035,2025-09-27,P001,Basic T-Shirt,Clothing,1,799,679.15,Store,South,Premium Customer,Wallet,15,No
+O00409,C0100,2025-09-27,P004,Summer Dress,Dresses,2,2999,5998.0,Website,East,Loyal Customer,UPI,0,No
+O00990,C0208,2025-09-27,P001,Basic T-Shirt,Clothing,1,799,679.15,Website,West,Regular Customer,UPI,15,No
+O00408,C0003,2025-09-28,P001,Basic T-Shirt,Clothing,2,799,1518.1,Store,West,Premium Customer,UPI,5,No
+O00450,C0336,2025-09-28,P009,Handbag,Accessories,1,2499,2249.1,Website,East,New Customer,Debit Card,10,No
+O00489,C0226,2025-09-28,P009,Handbag,Accessories,2,2499,4498.2,App,North,Regular Customer,Credit Card,10,No
+O00640,C0273,2025-09-28,P012,Cargo Trousers,Clothing,2,2499,4748.1,Store,East,Regular Customer,Debit Card,5,No
+O00296,C0176,2025-09-29,P006,Denim Jacket,Outerwear,1,3999,3199.2,Store,West,Loyal Customer,Cash,20,No
+O00920,C0150,2025-09-29,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,Store,East,Loyal Customer,Wallet,0,No
+O00036,C0360,2025-09-30,P008,Leather Loafers,Footwear,4,4299,17196.0,App,East,New Customer,Credit Card,0,No
+O00087,C0294,2025-09-30,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,West,Regular Customer,UPI,5,No
+O00656,C0212,2025-09-30,P003,Oversized Shirt,Clothing,2,1799,3418.1,Website,South,Regular Customer,Credit Card,5,No
+O00086,C0154,2025-10-01,P011,Knit Sweater,Knitwear,2,2799,4758.3,App,East,Loyal Customer,Cash,15,No
+O00168,C0058,2025-10-01,P012,Cargo Trousers,Clothing,1,2499,2499.0,Store,South,Premium Customer,Cash,0,No
+O00172,C0214,2025-10-01,P006,Denim Jacket,Outerwear,2,3999,7598.1,Website,South,Regular Customer,Wallet,5,No
+O00672,C0306,2025-10-01,P008,Leather Loafers,Footwear,1,4299,3654.15,Store,North,New Customer,Wallet,15,No
+O00756,C0335,2025-10-01,P012,Cargo Trousers,Clothing,2,2499,4498.2,App,West,New Customer,Wallet,10,No
+O00848,C0344,2025-10-01,P005,Blazer,Outerwear,2,4999,8498.3,App,South,New Customer,UPI,15,No
+O00094,C0335,2025-10-02,P011,Knit Sweater,Knitwear,2,2799,5318.1,Website,East,New Customer,Cash,5,Yes
+O00207,C0336,2025-10-02,P005,Blazer,Outerwear,2,4999,9498.1,Store,North,New Customer,Wallet,5,No
+O00327,C0290,2025-10-02,P008,Leather Loafers,Footwear,1,4299,3654.15,App,East,Regular Customer,Cash,15,No
+O00801,C0381,2025-10-02,P012,Cargo Trousers,Clothing,1,2499,1999.2,Website,South,New Customer,UPI,20,No
+O00981,C0184,2025-10-02,P011,Knit Sweater,Knitwear,1,2799,2379.15,Website,West,Regular Customer,Debit Card,15,No
+O00624,C0137,2025-10-03,P010,Sunglasses,Accessories,1,1599,1439.1,Store,West,Loyal Customer,Wallet,10,No
+O00882,C0092,2025-10-03,P006,Denim Jacket,Outerwear,1,3999,3199.2,Website,North,Loyal Customer,Debit Card,20,No
+O00052,C0105,2025-10-04,P007,Sneakers,Footwear,1,3499,2974.15,App,North,Loyal Customer,UPI,15,No
+O00458,C0071,2025-10-04,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,West,Premium Customer,Debit Card,0,No
+O00474,C0014,2025-10-04,P011,Knit Sweater,Knitwear,2,2799,5038.2,Store,North,Premium Customer,Debit Card,10,No
+O00376,C0004,2025-10-05,P010,Sunglasses,Accessories,2,1599,2558.4,Store,East,Premium Customer,Cash,20,No
+O00601,C0009,2025-10-05,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,North,Premium Customer,UPI,0,No
+O00913,C0290,2025-10-05,P008,Leather Loafers,Footwear,1,4299,3654.15,Website,South,Regular Customer,Cash,15,No
+O00295,C0218,2025-10-06,P001,Basic T-Shirt,Clothing,3,799,2157.3,App,West,Regular Customer,Debit Card,10,No
+O00953,C0063,2025-10-06,P011,Knit Sweater,Knitwear,1,2799,2239.2,Website,South,Premium Customer,Cash,20,No
+O00419,C0177,2025-10-07,P012,Cargo Trousers,Clothing,1,2499,2249.1,App,East,Loyal Customer,Cash,10,No
+O00229,C0066,2025-10-08,P011,Knit Sweater,Knitwear,3,2799,7557.3,Store,South,Premium Customer,Credit Card,10,Yes
+O00712,C0083,2025-10-08,P006,Denim Jacket,Outerwear,3,3999,10197.45,App,West,Loyal Customer,Cash,15,No
+O00763,C0164,2025-10-08,P011,Knit Sweater,Knitwear,2,2799,5598.0,Store,East,Loyal Customer,UPI,0,No
+O00998,C0328,2025-10-08,P001,Basic T-Shirt,Clothing,1,799,639.2,Store,North,New Customer,UPI,20,No
+O00192,C0390,2025-10-09,P012,Cargo Trousers,Clothing,1,2499,2499.0,Website,West,New Customer,Cash,0,No
+O00379,C0049,2025-10-09,P004,Summer Dress,Dresses,1,2999,2549.15,Website,South,Premium Customer,Credit Card,15,No
+O00612,C0150,2025-10-09,P012,Cargo Trousers,Clothing,4,2499,9996.0,Store,West,Loyal Customer,Wallet,0,No
+O00804,C0279,2025-10-09,P007,Sneakers,Footwear,1,3499,3324.05,Website,West,Regular Customer,UPI,5,No
+O00017,C0340,2025-10-10,P011,Knit Sweater,Knitwear,3,2799,7977.15,Website,East,New Customer,UPI,5,No
+O00190,C0332,2025-10-11,P009,Handbag,Accessories,2,2499,4248.3,Website,West,New Customer,Cash,15,No
+O00509,C0058,2025-10-11,P001,Basic T-Shirt,Clothing,1,799,679.15,Store,East,Premium Customer,Debit Card,15,No
+O00045,C0069,2025-10-12,P006,Denim Jacket,Outerwear,1,3999,3799.05,Store,East,Premium Customer,UPI,5,No
+O00114,C0251,2025-10-12,P003,Oversized Shirt,Clothing,1,1799,1709.05,App,North,Regular Customer,UPI,5,No
+O00194,C0012,2025-10-12,P010,Sunglasses,Accessories,3,1599,4797.0,Website,South,Premium Customer,Credit Card,0,Yes
+O00320,C0239,2025-10-12,P012,Cargo Trousers,Clothing,1,2499,2499.0,Website,North,Regular Customer,Credit Card,0,No
+O00562,C0321,2025-10-12,P003,Oversized Shirt,Clothing,1,1799,1619.1,Website,West,New Customer,Credit Card,10,No
+O00680,C0121,2025-10-13,P004,Summer Dress,Dresses,1,2999,2849.05,App,West,Loyal Customer,Cash,5,No
+O00797,C0333,2025-10-13,P005,Blazer,Outerwear,2,4999,7998.4,Website,West,New Customer,Credit Card,20,No
+O00344,C0369,2025-10-14,P001,Basic T-Shirt,Clothing,1,799,759.05,Store,East,New Customer,Wallet,5,No
+O00568,C0109,2025-10-14,P011,Knit Sweater,Knitwear,1,2799,2659.05,Website,West,Loyal Customer,Wallet,5,No
+O00986,C0056,2025-10-14,P010,Sunglasses,Accessories,1,1599,1359.15,Store,South,Premium Customer,Debit Card,15,No
+O00103,C0198,2025-10-16,P006,Denim Jacket,Outerwear,1,3999,3999.0,Website,East,Regular Customer,Wallet,0,No
+O00198,C0145,2025-10-16,P010,Sunglasses,Accessories,2,1599,3198.0,Store,West,Loyal Customer,Cash,0,No
+O00860,C0353,2025-10-16,P006,Denim Jacket,Outerwear,2,3999,7198.2,App,West,New Customer,Cash,10,No
+O00047,C0039,2025-10-17,P004,Summer Dress,Dresses,2,2999,5998.0,App,South,Premium Customer,Cash,0,Yes
+O00854,C0367,2025-10-17,P010,Sunglasses,Accessories,2,1599,2878.2,Store,East,New Customer,Wallet,10,No
+O00934,C0130,2025-10-17,P005,Blazer,Outerwear,3,4999,12747.45,App,West,Loyal Customer,Cash,15,No
+O00977,C0313,2025-10-17,P009,Handbag,Accessories,1,2499,2124.15,Store,North,New Customer,Cash,15,No
+O00121,C0328,2025-10-18,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,North,New Customer,Credit Card,10,No
+O00227,C0342,2025-10-18,P012,Cargo Trousers,Clothing,1,2499,2374.05,Store,South,New Customer,Wallet,5,No
+O00657,C0294,2025-10-18,P007,Sneakers,Footwear,3,3499,9447.3,App,South,Regular Customer,UPI,10,No
+O00587,C0260,2025-10-19,P001,Basic T-Shirt,Clothing,3,799,2157.3,App,South,Regular Customer,Debit Card,10,No
+O00186,C0021,2025-10-20,P001,Basic T-Shirt,Clothing,1,799,719.1,App,West,Premium Customer,Credit Card,10,No
+O00851,C0237,2025-10-20,P005,Blazer,Outerwear,3,4999,14997.0,Website,East,Regular Customer,Credit Card,0,No
+O00577,C0039,2025-10-21,P003,Oversized Shirt,Clothing,1,1799,1799.0,Website,East,Premium Customer,Debit Card,0,No
+O00815,C0282,2025-10-21,P003,Oversized Shirt,Clothing,2,1799,3598.0,Store,West,Regular Customer,Credit Card,0,No
+O00446,C0141,2025-10-22,P006,Denim Jacket,Outerwear,1,3999,3999.0,Website,North,Loyal Customer,Wallet,0,No
+O00491,C0333,2025-10-22,P009,Handbag,Accessories,2,2499,4498.2,Website,West,New Customer,Credit Card,10,No
+O00894,C0077,2025-10-24,P005,Blazer,Outerwear,2,4999,9998.0,Store,West,Premium Customer,Wallet,0,No
+O00558,C0144,2025-10-25,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,Website,South,Loyal Customer,Credit Card,0,No
+O00637,C0007,2025-10-25,P011,Knit Sweater,Knitwear,2,2799,5318.1,Store,West,Premium Customer,Debit Card,5,No
+O00467,C0258,2025-10-26,P008,Leather Loafers,Footwear,2,4299,6878.4,App,South,Regular Customer,Cash,20,No
+O00717,C0324,2025-10-26,P007,Sneakers,Footwear,2,3499,6298.2,App,North,New Customer,Debit Card,10,No
+O00813,C0139,2025-10-26,P007,Sneakers,Footwear,1,3499,3324.05,Store,North,Loyal Customer,Credit Card,5,No
+O00205,C0304,2025-10-27,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,Website,North,New Customer,Wallet,0,No
+O00219,C0130,2025-10-27,P012,Cargo Trousers,Clothing,2,2499,4748.1,Store,East,Loyal Customer,Debit Card,5,No
+O00878,C0145,2025-10-27,P003,Oversized Shirt,Clothing,1,1799,1619.1,Website,West,Loyal Customer,Credit Card,10,Yes
+O00317,C0168,2025-10-28,P012,Cargo Trousers,Clothing,3,2499,6747.3,Store,West,Loyal Customer,UPI,10,No
+O00377,C0233,2025-10-28,P001,Basic T-Shirt,Clothing,2,799,1358.3,App,West,Regular Customer,Debit Card,15,No
+O00110,C0287,2025-10-29,P010,Sunglasses,Accessories,2,1599,2718.3,App,East,Regular Customer,UPI,15,No
+O00216,C0085,2025-10-29,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Website,South,Loyal Customer,Cash,10,No
+O00313,C0355,2025-10-29,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,West,New Customer,UPI,5,No
+O00381,C0015,2025-10-29,P010,Sunglasses,Accessories,2,1599,2718.3,Store,North,Premium Customer,Credit Card,15,No
+O00605,C0179,2025-10-29,P008,Leather Loafers,Footwear,1,4299,3869.1,Website,East,Loyal Customer,Cash,10,No
+O00773,C0220,2025-10-29,P008,Leather Loafers,Footwear,3,4299,11607.3,Store,North,Regular Customer,Credit Card,10,No
+O00862,C0199,2025-10-29,P005,Blazer,Outerwear,3,4999,14247.15,Store,South,Regular Customer,Credit Card,5,No
+O00069,C0212,2025-10-30,P012,Cargo Trousers,Clothing,3,2499,6372.45,App,North,Regular Customer,Wallet,15,Yes
+O00951,C0381,2025-10-30,P004,Summer Dress,Dresses,2,2999,5998.0,App,North,New Customer,Debit Card,0,No
+O00026,C0298,2025-10-31,P003,Oversized Shirt,Clothing,2,1799,3238.2,App,West,Regular Customer,Credit Card,10,No
+O00469,C0369,2025-10-31,P003,Oversized Shirt,Clothing,2,1799,3418.1,App,East,New Customer,Cash,5,No
+O00136,C0229,2025-11-01,P012,Cargo Trousers,Clothing,1,2499,2499.0,Store,South,Regular Customer,Debit Card,0,No
+O00264,C0388,2025-11-01,P008,Leather Loafers,Footwear,2,4299,7738.2,Website,South,New Customer,Debit Card,10,No
+O00328,C0157,2025-11-01,P010,Sunglasses,Accessories,1,1599,1519.05,Website,West,Loyal Customer,Debit Card,5,No
+O00447,C0128,2025-11-01,P008,Leather Loafers,Footwear,1,4299,3654.15,Store,East,Loyal Customer,Credit Card,15,No
+O00525,C0310,2025-11-01,P011,Knit Sweater,Knitwear,1,2799,2379.15,Store,East,New Customer,Credit Card,15,No
+O00557,C0296,2025-11-01,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,Store,North,Regular Customer,Credit Card,0,No
+O00631,C0015,2025-11-01,P009,Handbag,Accessories,2,2499,4998.0,Website,East,Premium Customer,Debit Card,0,Yes
+O00652,C0323,2025-11-01,P007,Sneakers,Footwear,2,3499,6648.1,Website,South,New Customer,Cash,5,No
+O00772,C0159,2025-11-01,P005,Blazer,Outerwear,1,4999,3999.2,Website,North,Loyal Customer,Wallet,20,Yes
+O00037,C0104,2025-11-02,P001,Basic T-Shirt,Clothing,1,799,759.05,App,South,Loyal Customer,Debit Card,5,No
+O00585,C0087,2025-11-02,P009,Handbag,Accessories,1,2499,2499.0,Store,South,Loyal Customer,UPI,0,No
+O00602,C0113,2025-11-02,P005,Blazer,Outerwear,3,4999,12747.45,Website,South,Loyal Customer,UPI,15,No
+O00992,C0091,2025-11-02,P007,Sneakers,Footwear,1,3499,3324.05,Store,South,Loyal Customer,Debit Card,5,No
+O00960,C0167,2025-11-03,P010,Sunglasses,Accessories,1,1599,1599.0,App,East,Loyal Customer,Debit Card,0,No
+O00195,C0185,2025-11-04,P007,Sneakers,Footwear,1,3499,3324.05,Website,East,Regular Customer,Wallet,5,No
+O00508,C0119,2025-11-04,P005,Blazer,Outerwear,1,4999,4249.15,Store,West,Loyal Customer,Wallet,15,No
+O00304,C0164,2025-11-05,P008,Leather Loafers,Footwear,1,4299,3869.1,App,North,Loyal Customer,Debit Card,10,No
+O00898,C0052,2025-11-05,P003,Oversized Shirt,Clothing,1,1799,1619.1,Store,South,Premium Customer,Cash,10,No
+O00980,C0357,2025-11-05,P004,Summer Dress,Dresses,3,2999,8097.3,Store,South,New Customer,Debit Card,10,No
+O00402,C0112,2025-11-06,P011,Knit Sweater,Knitwear,1,2799,2379.15,App,North,Loyal Customer,Wallet,15,No
+O00611,C0177,2025-11-06,P005,Blazer,Outerwear,2,4999,8998.2,Store,South,Loyal Customer,Cash,10,No
+O00643,C0082,2025-11-06,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,East,Loyal Customer,Debit Card,10,No
+O00677,C0154,2025-11-06,P003,Oversized Shirt,Clothing,3,1799,4857.3,Store,West,Loyal Customer,Wallet,10,No
+O00700,C0296,2025-11-06,P009,Handbag,Accessories,2,2499,4748.1,App,East,Regular Customer,Debit Card,5,No
+O00041,C0053,2025-11-07,P012,Cargo Trousers,Clothing,1,2499,2124.15,App,North,Premium Customer,Debit Card,15,No
+O00221,C0286,2025-11-07,P004,Summer Dress,Dresses,1,2999,2399.2,App,West,Regular Customer,UPI,20,No
+O00827,C0208,2025-11-07,P009,Handbag,Accessories,1,2499,2124.15,Store,South,Regular Customer,Cash,15,No
+O00719,C0214,2025-11-08,P001,Basic T-Shirt,Clothing,4,799,3036.2,App,North,Regular Customer,Wallet,5,No
+O00075,C0162,2025-11-09,P006,Denim Jacket,Outerwear,1,3999,3399.15,Store,East,Loyal Customer,Debit Card,15,Yes
+O00129,C0017,2025-11-09,P005,Blazer,Outerwear,2,4999,9998.0,Store,South,Premium Customer,Debit Card,0,No
+O00440,C0109,2025-11-09,P003,Oversized Shirt,Clothing,3,1799,4857.3,Website,North,Loyal Customer,Debit Card,10,No
+O00502,C0143,2025-11-09,P009,Handbag,Accessories,1,2499,2499.0,Website,West,Loyal Customer,UPI,0,No
+O00792,C0062,2025-11-09,P010,Sunglasses,Accessories,2,1599,2718.3,App,North,Premium Customer,UPI,15,No
+O00158,C0345,2025-11-10,P005,Blazer,Outerwear,2,4999,9998.0,Store,East,New Customer,Wallet,0,No
+O00456,C0159,2025-11-10,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,West,Loyal Customer,Credit Card,0,No
+O00731,C0201,2025-11-11,P001,Basic T-Shirt,Clothing,3,799,2397.0,Website,East,Regular Customer,Credit Card,0,No
+O00218,C0164,2025-11-12,P003,Oversized Shirt,Clothing,1,1799,1709.05,Website,North,Loyal Customer,UPI,5,No
+O00537,C0291,2025-11-12,P006,Denim Jacket,Outerwear,2,3999,7598.1,App,South,Regular Customer,Debit Card,5,Yes
+O00032,C0264,2025-11-13,P011,Knit Sweater,Knitwear,1,2799,2519.1,Website,North,Regular Customer,Wallet,10,No
+O00303,C0327,2025-11-13,P009,Handbag,Accessories,1,2499,2249.1,Website,East,New Customer,Wallet,10,No
+O00974,C0308,2025-11-13,P005,Blazer,Outerwear,1,4999,4999.0,Store,West,New Customer,Wallet,0,No
+O00091,C0377,2025-11-14,P001,Basic T-Shirt,Clothing,1,799,759.05,App,North,New Customer,Debit Card,5,No
+O00461,C0300,2025-11-14,P011,Knit Sweater,Knitwear,2,2799,5598.0,App,North,Regular Customer,Credit Card,0,No
+O00549,C0272,2025-11-14,P002,Slim Fit Jeans,Clothing,2,2299,4368.1,App,West,Regular Customer,Debit Card,5,No
+O00118,C0257,2025-11-15,P003,Oversized Shirt,Clothing,1,1799,1619.1,Website,South,Regular Customer,Debit Card,10,No
+O00171,C0015,2025-11-15,P009,Handbag,Accessories,1,2499,2249.1,App,East,Premium Customer,UPI,10,No
+O00358,C0214,2025-11-16,P006,Denim Jacket,Outerwear,2,3999,7998.0,Store,West,Regular Customer,UPI,0,No
+O00584,C0173,2025-11-16,P008,Leather Loafers,Footwear,1,4299,3869.1,Store,South,Loyal Customer,Cash,10,No
+O00060,C0170,2025-11-17,P009,Handbag,Accessories,1,2499,2249.1,Store,South,Loyal Customer,Wallet,10,No
+O00378,C0339,2025-11-17,P011,Knit Sweater,Knitwear,2,2799,5318.1,Store,West,New Customer,Debit Card,5,No
+O00745,C0214,2025-11-18,P006,Denim Jacket,Outerwear,1,3999,3599.1,Store,East,Regular Customer,Wallet,10,No
+O00035,C0116,2025-11-19,P005,Blazer,Outerwear,1,4999,4999.0,App,North,Loyal Customer,Credit Card,0,No
+O00535,C0271,2025-11-19,P008,Leather Loafers,Footwear,1,4299,3869.1,Website,North,Regular Customer,Debit Card,10,No
+O00810,C0226,2025-11-19,P003,Oversized Shirt,Clothing,1,1799,1799.0,Store,East,Regular Customer,UPI,0,Yes
+O00821,C0020,2025-11-19,P006,Denim Jacket,Outerwear,1,3999,3399.15,Store,North,Premium Customer,UPI,15,No
+O00842,C0274,2025-11-19,P007,Sneakers,Footwear,1,3499,3149.1,App,South,Regular Customer,Cash,10,Yes
+O00200,C0063,2025-11-20,P009,Handbag,Accessories,3,2499,6372.45,Store,North,Premium Customer,UPI,15,No
+O00396,C0399,2025-11-20,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,App,North,New Customer,Cash,5,No
+O00630,C0192,2025-11-20,P005,Blazer,Outerwear,1,4999,4499.1,App,East,Regular Customer,UPI,10,No
+O00271,C0070,2025-11-22,P010,Sunglasses,Accessories,3,1599,4077.45,App,East,Premium Customer,Cash,15,No
+O00938,C0354,2025-11-22,P010,Sunglasses,Accessories,1,1599,1519.05,Website,South,New Customer,Wallet,5,No
+O00278,C0341,2025-11-23,P012,Cargo Trousers,Clothing,1,2499,2249.1,Website,North,New Customer,UPI,10,No
+O00635,C0090,2025-11-23,P005,Blazer,Outerwear,2,4999,8498.3,Store,East,Loyal Customer,Debit Card,15,Yes
+O00738,C0018,2025-11-23,P011,Knit Sweater,Knitwear,1,2799,2519.1,App,North,Premium Customer,Credit Card,10,No
+O00752,C0057,2025-11-23,P008,Leather Loafers,Footwear,1,4299,3869.1,Website,West,Premium Customer,Debit Card,10,No
+O00011,C0392,2025-11-24,P003,Oversized Shirt,Clothing,1,1799,1709.05,Store,East,New Customer,UPI,5,No
+O00204,C0267,2025-11-24,P003,Oversized Shirt,Clothing,2,1799,3238.2,App,South,Regular Customer,Credit Card,10,No
+O00300,C0225,2025-11-24,P006,Denim Jacket,Outerwear,1,3999,3799.05,Store,East,Regular Customer,Cash,5,No
+O00412,C0089,2025-11-24,P004,Summer Dress,Dresses,1,2999,2549.15,Store,West,Loyal Customer,Wallet,15,No
+O00004,C0271,2025-11-25,P003,Oversized Shirt,Clothing,2,1799,3598.0,Website,West,Regular Customer,Wallet,0,No
+O00620,C0126,2025-11-25,P011,Knit Sweater,Knitwear,2,2799,4758.3,Website,West,Loyal Customer,Debit Card,15,No
+O00078,C0335,2025-11-26,P012,Cargo Trousers,Clothing,3,2499,6372.45,App,South,New Customer,UPI,15,No
+O00425,C0164,2025-11-26,P003,Oversized Shirt,Clothing,2,1799,3238.2,Store,West,Loyal Customer,UPI,10,No
+O00704,C0204,2025-11-26,P007,Sneakers,Footwear,2,3499,6998.0,Website,West,Regular Customer,Debit Card,0,No
+O00937,C0147,2025-11-26,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,North,Loyal Customer,Credit Card,10,No
+O00225,C0226,2025-11-27,P004,Summer Dress,Dresses,1,2999,2849.05,Website,South,Regular Customer,UPI,5,No
+O00939,C0334,2025-11-27,P004,Summer Dress,Dresses,1,2999,2699.1,App,West,New Customer,Wallet,10,No
+O00182,C0312,2025-11-28,P009,Handbag,Accessories,1,2499,2249.1,Website,West,New Customer,UPI,10,No
+O00400,C0168,2025-11-28,P007,Sneakers,Footwear,1,3499,3324.05,App,North,Loyal Customer,Cash,5,No
+O00822,C0225,2025-11-28,P001,Basic T-Shirt,Clothing,1,799,719.1,App,North,Regular Customer,Debit Card,10,No
+O00881,C0144,2025-11-28,P008,Leather Loafers,Footwear,2,4299,7738.2,Store,South,Loyal Customer,UPI,10,Yes
+O00709,C0012,2025-11-29,P005,Blazer,Outerwear,2,4999,9998.0,Store,South,Premium Customer,Credit Card,0,Yes
+O00781,C0357,2025-11-29,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Store,East,New Customer,Cash,10,No
+O00414,C0012,2025-11-30,P005,Blazer,Outerwear,1,4999,4249.15,Website,East,Premium Customer,Cash,15,No
+O00725,C0062,2025-11-30,P004,Summer Dress,Dresses,1,2999,2849.05,Website,South,Premium Customer,Wallet,5,No
+O00844,C0086,2025-11-30,P005,Blazer,Outerwear,1,4999,4499.1,App,West,Loyal Customer,Cash,10,No
+O00184,C0050,2025-12-01,P001,Basic T-Shirt,Clothing,1,799,719.1,Website,North,Premium Customer,Credit Card,10,No
+O00790,C0009,2025-12-01,P009,Handbag,Accessories,2,2499,4748.1,App,South,Premium Customer,Wallet,5,No
+O00273,C0364,2025-12-02,P010,Sunglasses,Accessories,1,1599,1519.05,App,West,New Customer,Credit Card,5,No
+O00385,C0390,2025-12-02,P004,Summer Dress,Dresses,3,2999,7647.45,Store,North,New Customer,Wallet,15,Yes
+O00343,C0239,2025-12-03,P004,Summer Dress,Dresses,1,2999,2999.0,Store,East,Regular Customer,UPI,0,No
+O00845,C0009,2025-12-03,P009,Handbag,Accessories,2,2499,4748.1,Store,North,Premium Customer,UPI,5,No
+O00846,C0043,2025-12-03,P002,Slim Fit Jeans,Clothing,2,2299,4598.0,Store,South,Premium Customer,Credit Card,0,No
+O00900,C0205,2025-12-03,P006,Denim Jacket,Outerwear,2,3999,7198.2,Website,North,Regular Customer,Cash,10,No
+O00609,C0238,2025-12-04,P006,Denim Jacket,Outerwear,1,3999,3799.05,Store,West,Regular Customer,Debit Card,5,Yes
+O00673,C0042,2025-12-04,P004,Summer Dress,Dresses,1,2999,2549.15,Store,South,Premium Customer,Cash,15,No
+O00847,C0135,2025-12-04,P012,Cargo Trousers,Clothing,2,2499,4248.3,Website,South,Loyal Customer,Debit Card,15,No
+O00598,C0053,2025-12-05,P011,Knit Sweater,Knitwear,1,2799,2519.1,App,East,Premium Customer,Debit Card,10,No
+O00985,C0240,2025-12-05,P007,Sneakers,Footwear,1,3499,2974.15,Store,West,Regular Customer,Credit Card,15,Yes
+O00005,C0167,2025-12-06,P002,Slim Fit Jeans,Clothing,2,2299,4368.1,Store,West,Loyal Customer,Credit Card,5,No
+O00370,C0182,2025-12-06,P004,Summer Dress,Dresses,3,2999,8997.0,App,East,Regular Customer,UPI,0,No
+O00513,C0283,2025-12-06,P001,Basic T-Shirt,Clothing,3,799,2277.15,App,West,Regular Customer,Credit Card,5,No
+O00629,C0153,2025-12-06,P010,Sunglasses,Accessories,2,1599,3038.1,Website,South,Loyal Customer,Debit Card,5,No
+O00897,C0225,2025-12-06,P001,Basic T-Shirt,Clothing,2,799,1358.3,Website,South,Regular Customer,Wallet,15,No
+O00046,C0220,2025-12-07,P005,Blazer,Outerwear,3,4999,13497.3,App,South,Regular Customer,Credit Card,10,No
+O00432,C0345,2025-12-07,P007,Sneakers,Footwear,3,3499,8922.45,App,West,New Customer,Debit Card,15,No
+O00706,C0255,2025-12-07,P004,Summer Dress,Dresses,1,2999,2699.1,Store,North,Regular Customer,Wallet,10,Yes
+O00334,C0224,2025-12-09,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,North,Regular Customer,Wallet,10,No
+O00392,C0181,2025-12-09,P011,Knit Sweater,Knitwear,1,2799,2799.0,Website,North,Regular Customer,Cash,0,No
+O00664,C0378,2025-12-09,P001,Basic T-Shirt,Clothing,1,799,679.15,Website,South,New Customer,Debit Card,15,No
+O00281,C0112,2025-12-10,P009,Handbag,Accessories,3,2499,6747.3,Store,South,Loyal Customer,Cash,10,No
+O00254,C0392,2025-12-11,P008,Leather Loafers,Footwear,2,4299,8598.0,Website,East,New Customer,Debit Card,0,No
+O00277,C0314,2025-12-11,P005,Blazer,Outerwear,2,4999,9998.0,App,East,New Customer,Debit Card,0,No
+O00521,C0378,2025-12-11,P009,Handbag,Accessories,1,2499,2374.05,App,South,New Customer,Cash,5,No
+O00042,C0308,2025-12-12,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,Website,South,New Customer,Credit Card,5,No
+O00530,C0398,2025-12-12,P005,Blazer,Outerwear,1,4999,4499.1,App,East,New Customer,Cash,10,No
+O00968,C0328,2025-12-12,P012,Cargo Trousers,Clothing,1,2499,2249.1,App,South,New Customer,UPI,10,No
+O00249,C0105,2025-12-13,P009,Handbag,Accessories,1,2499,1999.2,Store,East,Loyal Customer,Cash,20,No
+O00715,C0336,2025-12-13,P012,Cargo Trousers,Clothing,1,2499,2499.0,App,South,New Customer,Debit Card,0,No
+O00063,C0126,2025-12-14,P010,Sunglasses,Accessories,1,1599,1439.1,Store,West,Loyal Customer,Wallet,10,No
+O00455,C0372,2025-12-14,P011,Knit Sweater,Knitwear,3,2799,7977.15,Store,East,New Customer,UPI,5,No
+O00391,C0094,2025-12-15,P003,Oversized Shirt,Clothing,2,1799,3418.1,App,East,Loyal Customer,Cash,5,No
+O00820,C0105,2025-12-15,P011,Knit Sweater,Knitwear,2,2799,5318.1,Store,East,Loyal Customer,Wallet,5,Yes
+O00533,C0146,2025-12-16,P002,Slim Fit Jeans,Clothing,1,2299,2184.05,Store,North,Loyal Customer,Wallet,5,No
+O00914,C0082,2025-12-17,P001,Basic T-Shirt,Clothing,2,799,1358.3,App,North,Loyal Customer,Cash,15,No
+O00181,C0392,2025-12-18,P007,Sneakers,Footwear,1,3499,3149.1,Website,West,New Customer,Wallet,10,No
+O00196,C0336,2025-12-18,P002,Slim Fit Jeans,Clothing,1,2299,2299.0,App,East,New Customer,Wallet,0,No
+O00613,C0232,2025-12-18,P005,Blazer,Outerwear,1,4999,4749.05,Store,North,Regular Customer,Debit Card,5,No
+O00796,C0311,2025-12-18,P007,Sneakers,Footwear,1,3499,3149.1,App,North,New Customer,Credit Card,10,No
+O00217,C0019,2025-12-19,P004,Summer Dress,Dresses,3,2999,7647.45,Store,South,Premium Customer,Wallet,15,No
+O00751,C0069,2025-12-19,P004,Summer Dress,Dresses,1,2999,2699.1,Store,North,Premium Customer,Credit Card,10,No
+O00786,C0243,2025-12-19,P009,Handbag,Accessories,1,2499,2249.1,Website,North,Regular Customer,Debit Card,10,No
+O00220,C0381,2025-12-20,P010,Sunglasses,Accessories,1,1599,1519.05,Website,South,New Customer,Debit Card,5,No
+O00445,C0072,2025-12-20,P011,Knit Sweater,Knitwear,2,2799,4758.3,Website,East,Premium Customer,Credit Card,15,No
+O00084,C0239,2025-12-21,P008,Leather Loafers,Footwear,1,4299,4299.0,Store,East,Regular Customer,UPI,0,No
+O00125,C0119,2025-12-21,P012,Cargo Trousers,Clothing,1,2499,2249.1,Store,North,Loyal Customer,Cash,10,No
+O00349,C0104,2025-12-21,P007,Sneakers,Footwear,1,3499,3149.1,Website,South,Loyal Customer,Debit Card,10,No
+O00470,C0291,2025-12-21,P006,Denim Jacket,Outerwear,3,3999,10797.3,App,South,Regular Customer,Debit Card,10,No
+O00578,C0098,2025-12-21,P011,Knit Sweater,Knitwear,1,2799,2659.05,App,South,Loyal Customer,UPI,5,No
+O00705,C0308,2025-12-21,P009,Handbag,Accessories,2,2499,4498.2,App,South,New Customer,Cash,10,No
+O00885,C0131,2025-12-21,P011,Knit Sweater,Knitwear,4,2799,10076.4,App,South,Loyal Customer,Debit Card,10,No
+O00159,C0249,2025-12-22,P003,Oversized Shirt,Clothing,1,1799,1709.05,Store,South,Regular Customer,Credit Card,5,No
+O00270,C0035,2025-12-22,P010,Sunglasses,Accessories,1,1599,1439.1,Store,North,Premium Customer,Wallet,10,No
+O00564,C0216,2025-12-22,P002,Slim Fit Jeans,Clothing,1,2299,1954.15,Store,West,Regular Customer,Wallet,15,Yes
+O00812,C0091,2025-12-22,P012,Cargo Trousers,Clothing,1,2499,2249.1,Website,South,Loyal Customer,Debit Card,10,No
+O00816,C0087,2025-12-22,P005,Blazer,Outerwear,2,4999,9998.0,Store,North,Loyal Customer,Cash,0,No
+O00982,C0149,2025-12-22,P011,Knit Sweater,Knitwear,1,2799,2239.2,Website,West,Loyal Customer,Cash,20,No
+O00987,C0180,2025-12-22,P010,Sunglasses,Accessories,1,1599,1519.05,Store,South,Loyal Customer,UPI,5,No
+O00747,C0205,2025-12-23,P003,Oversized Shirt,Clothing,4,1799,5756.8,App,South,Regular Customer,UPI,20,No
+O00857,C0255,2025-12-23,P012,Cargo Trousers,Clothing,4,2499,8496.6,Store,East,Regular Customer,Debit Card,15,No
+O00072,C0105,2025-12-24,P003,Oversized Shirt,Clothing,1,1799,1529.15,App,North,Loyal Customer,Wallet,15,No
+O00350,C0072,2025-12-24,P003,Oversized Shirt,Clothing,3,1799,5397.0,Website,North,Premium Customer,Debit Card,0,Yes
+O00430,C0304,2025-12-24,P007,Sneakers,Footwear,1,3499,3149.1,Store,South,New Customer,Debit Card,10,No
+O00177,C0375,2025-12-25,P012,Cargo Trousers,Clothing,1,2499,2124.15,App,East,New Customer,UPI,15,No
+O00006,C0092,2025-12-26,P012,Cargo Trousers,Clothing,2,2499,4998.0,App,North,Loyal Customer,Credit Card,0,No
+O00080,C0240,2025-12-26,P011,Knit Sweater,Knitwear,1,2799,2519.1,App,North,Regular Customer,Cash,10,No
+O00107,C0095,2025-12-26,P003,Oversized Shirt,Clothing,2,1799,3238.2,Store,West,Loyal Customer,Credit Card,10,No
+O00519,C0181,2025-12-26,P007,Sneakers,Footwear,4,3499,13296.2,Website,East,Regular Customer,Credit Card,5,No
+O00528,C0239,2025-12-26,P012,Cargo Trousers,Clothing,1,2499,2249.1,Store,East,Regular Customer,Cash,10,No
+O00054,C0152,2025-12-27,P007,Sneakers,Footwear,1,3499,3149.1,Store,North,Loyal Customer,Debit Card,10,No
+O00305,C0227,2025-12-27,P009,Handbag,Accessories,2,2499,4998.0,App,South,Regular Customer,Credit Card,0,No
+O00691,C0329,2025-12-28,P002,Slim Fit Jeans,Clothing,1,2299,2069.1,Website,East,New Customer,Cash,10,No
+O00314,C0369,2025-12-29,P008,Leather Loafers,Footwear,1,4299,3869.1,App,West,New Customer,Credit Card,10,No
+O00516,C0366,2025-12-29,P004,Summer Dress,Dresses,1,2999,2999.0,Store,North,New Customer,UPI,0,No
+O00895,C0203,2025-12-29,P008,Leather Loafers,Footwear,1,4299,4084.05,Website,South,Regular Customer,Wallet,5,No
+O00061,C0342,2025-12-30,P004,Summer Dress,Dresses,4,2999,10196.6,App,East,New Customer,Debit Card,15,No
+O00113,C0075,2025-12-30,P006,Denim Jacket,Outerwear,1,3999,3399.15,Website,South,Premium Customer,Debit Card,15,No
+O00257,C0030,2025-12-30,P007,Sneakers,Footwear,2,3499,6998.0,Website,North,Premium Customer,UPI,0,No
+O00293,C0372,2025-12-30,P006,Denim Jacket,Outerwear,2,3999,6398.4,Website,East,New Customer,Cash,20,No
+O00573,C0340,2025-12-30,P006,Denim Jacket,Outerwear,1,3999,3599.1,Website,West,New Customer,Debit Card,10,No
+O00085,C0253,2025-12-31,P004,Summer Dress,Dresses,3,2999,8547.15,App,East,Regular Customer,Credit Card,5,No
+O00105,C0196,2025-12-31,P006,Denim Jacket,Outerwear,3,3999,11397.15,Store,North,Regular Customer,Cash,5,No
+O00138,C0215,2025-12-31,P005,Blazer,Outerwear,4,4999,16996.6,Store,South,Regular Customer,Debit Card,15,No
+O00201,C0098,2025-12-31,P006,Denim Jacket,Outerwear,1,3999,3399.15,Website,South,Loyal Customer,Debit Card,15,No
+O00721,C0037,2025-12-31,P003,Oversized Shirt,Clothing,1,1799,1619.1,Website,South,Premium Customer,Debit Card,10,No
+O00962,C0300,2025-12-31,P004,Summer Dress,Dresses,1,2999,2549.15,Website,West,Regular Customer,UPI,15,No
+O00988,C0283,2025-12-31,P011,Knit Sweater,Knitwear,3,2799,7137.45,App,North,Regular Customer,Wallet,15,Yes
